@@ -1,0 +1,6820 @@
+[
+  {
+    "time": "2023-10-29T00:00",
+    "temperature": 13.4,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T01:00",
+    "temperature": 12.2,
+    "cloudCoverage": 71,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T02:00",
+    "temperature": 11.9,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T03:00",
+    "temperature": 11.8,
+    "cloudCoverage": 52,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T04:00",
+    "temperature": 11.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T05:00",
+    "temperature": 11,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T06:00",
+    "temperature": 10.6,
+    "cloudCoverage": 84,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T07:00",
+    "temperature": 11.4,
+    "cloudCoverage": 100,
+    "solar": 13
+  },
+  {
+    "time": "2023-10-29T08:00",
+    "temperature": 14.2,
+    "cloudCoverage": 53,
+    "solar": 146
+  },
+  {
+    "time": "2023-10-29T09:00",
+    "temperature": 16.9,
+    "cloudCoverage": 33,
+    "solar": 383
+  },
+  {
+    "time": "2023-10-29T10:00",
+    "temperature": 18.6,
+    "cloudCoverage": 36,
+    "solar": 603
+  },
+  {
+    "time": "2023-10-29T11:00",
+    "temperature": 20.5,
+    "cloudCoverage": 27,
+    "solar": 518
+  },
+  {
+    "time": "2023-10-29T12:00",
+    "temperature": 21.4,
+    "cloudCoverage": 32,
+    "solar": 751
+  },
+  {
+    "time": "2023-10-29T13:00",
+    "temperature": 21.8,
+    "cloudCoverage": 32,
+    "solar": 827
+  },
+  {
+    "time": "2023-10-29T14:00",
+    "temperature": 21.8,
+    "cloudCoverage": 25,
+    "solar": 811
+  },
+  {
+    "time": "2023-10-29T15:00",
+    "temperature": 21.8,
+    "cloudCoverage": 34,
+    "solar": 717
+  },
+  {
+    "time": "2023-10-29T16:00",
+    "temperature": 21.4,
+    "cloudCoverage": 56,
+    "solar": 549
+  },
+  {
+    "time": "2023-10-29T17:00",
+    "temperature": 20.8,
+    "cloudCoverage": 33,
+    "solar": 359
+  },
+  {
+    "time": "2023-10-29T18:00",
+    "temperature": 20,
+    "cloudCoverage": 34,
+    "solar": 200
+  },
+  {
+    "time": "2023-10-29T19:00",
+    "temperature": 18.8,
+    "cloudCoverage": 47,
+    "solar": 41
+  },
+  {
+    "time": "2023-10-29T20:00",
+    "temperature": 17.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T21:00",
+    "temperature": 16.7,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T22:00",
+    "temperature": 16.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-29T23:00",
+    "temperature": 16.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T00:00",
+    "temperature": 16,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T01:00",
+    "temperature": 15.6,
+    "cloudCoverage": 45,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T02:00",
+    "temperature": 14.9,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T03:00",
+    "temperature": 14.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T04:00",
+    "temperature": 13.9,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T05:00",
+    "temperature": 12.9,
+    "cloudCoverage": 27,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T06:00",
+    "temperature": 12.4,
+    "cloudCoverage": 22,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T07:00",
+    "temperature": 13.3,
+    "cloudCoverage": 0,
+    "solar": 49
+  },
+  {
+    "time": "2023-10-30T08:00",
+    "temperature": 16.4,
+    "cloudCoverage": 0,
+    "solar": 234
+  },
+  {
+    "time": "2023-10-30T09:00",
+    "temperature": 19.1,
+    "cloudCoverage": 0,
+    "solar": 449
+  },
+  {
+    "time": "2023-10-30T10:00",
+    "temperature": 21,
+    "cloudCoverage": 0,
+    "solar": 646
+  },
+  {
+    "time": "2023-10-30T11:00",
+    "temperature": 23.6,
+    "cloudCoverage": 0,
+    "solar": 803
+  },
+  {
+    "time": "2023-10-30T12:00",
+    "temperature": 25,
+    "cloudCoverage": 0,
+    "solar": 908
+  },
+  {
+    "time": "2023-10-30T13:00",
+    "temperature": 25.8,
+    "cloudCoverage": 0,
+    "solar": 944
+  },
+  {
+    "time": "2023-10-30T14:00",
+    "temperature": 26.2,
+    "cloudCoverage": 0,
+    "solar": 907
+  },
+  {
+    "time": "2023-10-30T15:00",
+    "temperature": 25.6,
+    "cloudCoverage": 0,
+    "solar": 793
+  },
+  {
+    "time": "2023-10-30T16:00",
+    "temperature": 25.1,
+    "cloudCoverage": 0,
+    "solar": 645
+  },
+  {
+    "time": "2023-10-30T17:00",
+    "temperature": 23.8,
+    "cloudCoverage": 0,
+    "solar": 447
+  },
+  {
+    "time": "2023-10-30T18:00",
+    "temperature": 22.7,
+    "cloudCoverage": 0,
+    "solar": 235
+  },
+  {
+    "time": "2023-10-30T19:00",
+    "temperature": 21.2,
+    "cloudCoverage": 0,
+    "solar": 50
+  },
+  {
+    "time": "2023-10-30T20:00",
+    "temperature": 20.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T21:00",
+    "temperature": 20,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T22:00",
+    "temperature": 19.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-30T23:00",
+    "temperature": 18.5,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T00:00",
+    "temperature": 18,
+    "cloudCoverage": 13,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T01:00",
+    "temperature": 17.7,
+    "cloudCoverage": 17,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T02:00",
+    "temperature": 17.2,
+    "cloudCoverage": 7,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T03:00",
+    "temperature": 16.5,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T04:00",
+    "temperature": 15.9,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T05:00",
+    "temperature": 15.2,
+    "cloudCoverage": 25,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T06:00",
+    "temperature": 14.8,
+    "cloudCoverage": 17,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T07:00",
+    "temperature": 15.8,
+    "cloudCoverage": 0,
+    "solar": 49
+  },
+  {
+    "time": "2023-10-31T08:00",
+    "temperature": 19.7,
+    "cloudCoverage": 13,
+    "solar": 235
+  },
+  {
+    "time": "2023-10-31T09:00",
+    "temperature": 22.9,
+    "cloudCoverage": 51,
+    "solar": 411
+  },
+  {
+    "time": "2023-10-31T10:00",
+    "temperature": 25.2,
+    "cloudCoverage": 97,
+    "solar": 385
+  },
+  {
+    "time": "2023-10-31T11:00",
+    "temperature": 27.6,
+    "cloudCoverage": 72,
+    "solar": 225
+  },
+  {
+    "time": "2023-10-31T12:00",
+    "temperature": 28.4,
+    "cloudCoverage": 70,
+    "solar": 414
+  },
+  {
+    "time": "2023-10-31T13:00",
+    "temperature": 28.9,
+    "cloudCoverage": 57,
+    "solar": 451
+  },
+  {
+    "time": "2023-10-31T14:00",
+    "temperature": 29.6,
+    "cloudCoverage": 71,
+    "solar": 464
+  },
+  {
+    "time": "2023-10-31T15:00",
+    "temperature": 29.2,
+    "cloudCoverage": 52,
+    "solar": 464
+  },
+  {
+    "time": "2023-10-31T16:00",
+    "temperature": 28.1,
+    "cloudCoverage": 72,
+    "solar": 387
+  },
+  {
+    "time": "2023-10-31T17:00",
+    "temperature": 26.3,
+    "cloudCoverage": 25,
+    "solar": 346
+  },
+  {
+    "time": "2023-10-31T18:00",
+    "temperature": 24.7,
+    "cloudCoverage": 31,
+    "solar": 210
+  },
+  {
+    "time": "2023-10-31T19:00",
+    "temperature": 22.1,
+    "cloudCoverage": 30,
+    "solar": 50
+  },
+  {
+    "time": "2023-10-31T20:00",
+    "temperature": 20.9,
+    "cloudCoverage": 49,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T21:00",
+    "temperature": 20,
+    "cloudCoverage": 52,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T22:00",
+    "temperature": 19.4,
+    "cloudCoverage": 69,
+    "solar": 0
+  },
+  {
+    "time": "2023-10-31T23:00",
+    "temperature": 19,
+    "cloudCoverage": 69,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T00:00",
+    "temperature": 18.7,
+    "cloudCoverage": 83,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T01:00",
+    "temperature": 18.6,
+    "cloudCoverage": 88,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T02:00",
+    "temperature": 18.4,
+    "cloudCoverage": 82,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T03:00",
+    "temperature": 18,
+    "cloudCoverage": 80,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T04:00",
+    "temperature": 17.4,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T05:00",
+    "temperature": 17.2,
+    "cloudCoverage": 59,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T06:00",
+    "temperature": 16.9,
+    "cloudCoverage": 65,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-01T07:00",
+    "temperature": 17.4,
+    "cloudCoverage": 65,
+    "solar": 25
+  },
+  {
+    "time": "2023-11-01T08:00",
+    "temperature": 18.9,
+    "cloudCoverage": 88,
+    "solar": 108
+  },
+  {
+    "time": "2023-11-01T09:00",
+    "temperature": 19.1,
+    "cloudCoverage": 98,
+    "solar": 150
+  },
+  {
+    "time": "2023-11-01T10:00",
+    "temperature": 19.4,
+    "cloudCoverage": 100,
+    "solar": 120
+  },
+  {
+    "time": "2023-11-01T11:00",
+    "temperature": 20.2,
+    "cloudCoverage": 98,
+    "solar": 29
+  },
+  {
+    "time": "2023-11-01T12:00",
+    "temperature": 21,
+    "cloudCoverage": 74,
+    "solar": 308
+  },
+  {
+    "time": "2023-11-01T13:00",
+    "temperature": 21.5,
+    "cloudCoverage": 79,
+    "solar": 452
+  },
+  {
+    "time": "2023-11-01T14:00",
+    "temperature": 21.5,
+    "cloudCoverage": 66,
+    "solar": 387
+  },
+  {
+    "time": "2023-11-01T15:00",
+    "temperature": 21.1,
+    "cloudCoverage": 74,
+    "solar": 345
+  },
+  {
+    "time": "2023-11-01T16:00",
+    "temperature": 20.7,
+    "cloudCoverage": 83,
+    "solar": 287
+  },
+  {
+    "time": "2023-11-01T17:00",
+    "temperature": 20.1,
+    "cloudCoverage": 82,
+    "solar": 121
+  },
+  {
+    "time": "2023-11-01T18:00",
+    "temperature": 19.6,
+    "cloudCoverage": 90,
+    "solar": 79
+  },
+  {
+    "solarInput": 0,
+    "SOC": 87.5,
+    "time": "2023-11-01T19:00",
+    "temperature": 18.9,
+    "cloudCoverage": 94,
+    "solar": 8
+  },
+  {
+    "solarInput": 0,
+    "SOC": 84,
+    "time": "2023-11-01T20:00",
+    "temperature": 18.4,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.5,
+    "time": "2023-11-01T21:00",
+    "temperature": 18.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71,
+    "time": "2023-11-01T22:00",
+    "temperature": 18.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.5,
+    "time": "2023-11-01T23:00",
+    "temperature": 18.2,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.25,
+    "time": "2023-11-02T00:00",
+    "temperature": 17.5,
+    "cloudCoverage": 88,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.666666666666664,
+    "time": "2023-11-02T01:00",
+    "temperature": 17,
+    "cloudCoverage": 89,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 52.5,
+    "time": "2023-11-02T02:00",
+    "temperature": 16.4,
+    "cloudCoverage": 68,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 49.25,
+    "time": "2023-11-02T03:00",
+    "temperature": 15.9,
+    "cloudCoverage": 54,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 45.666666666666664,
+    "time": "2023-11-02T04:00",
+    "temperature": 15.4,
+    "cloudCoverage": 57,
+    "solar": 0
+  },
+  {
+    "solarInput": 22.5,
+    "SOC": 42.5,
+    "time": "2023-11-02T05:00",
+    "temperature": 15,
+    "cloudCoverage": 36,
+    "solar": 0
+  },
+  {
+    "solarInput": 639.5,
+    "SOC": 42,
+    "time": "2023-11-02T06:00",
+    "temperature": 14.5,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 1321.5,
+    "SOC": 48.5,
+    "time": "2023-11-02T07:00",
+    "temperature": 15.3,
+    "cloudCoverage": 31,
+    "solar": 38
+  },
+  {
+    "solarInput": 2084.6666666666665,
+    "SOC": 69,
+    "time": "2023-11-02T08:00",
+    "temperature": 17.3,
+    "cloudCoverage": 56,
+    "solar": 174
+  },
+  {
+    "solarInput": 1700,
+    "SOC": 90,
+    "time": "2023-11-02T09:00",
+    "temperature": 18.5,
+    "cloudCoverage": 75,
+    "solar": 273
+  },
+  {
+    "solarInput": 847,
+    "SOC": 99,
+    "time": "2023-11-02T10:00",
+    "temperature": 19.3,
+    "cloudCoverage": 86,
+    "solar": 337
+  },
+  {
+    "solarInput": 1334.3333333333333,
+    "SOC": 99.16666666666667,
+    "time": "2023-11-02T11:00",
+    "temperature": 20.5,
+    "cloudCoverage": 66,
+    "solar": 450
+  },
+  {
+    "solarInput": 819.5,
+    "SOC": 100,
+    "time": "2023-11-02T12:00",
+    "temperature": 21.3,
+    "cloudCoverage": 56,
+    "solar": 547
+  },
+  {
+    "solarInput": 502.5,
+    "SOC": 100,
+    "time": "2023-11-02T13:00",
+    "temperature": 21.6,
+    "cloudCoverage": 43,
+    "solar": 594
+  },
+  {
+    "solarInput": 433.5,
+    "SOC": 100,
+    "time": "2023-11-02T14:00",
+    "temperature": 21.4,
+    "cloudCoverage": 44,
+    "solar": 558
+  },
+  {
+    "solarInput": 435.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-02T15:00",
+    "temperature": 21.5,
+    "cloudCoverage": 39,
+    "solar": 591
+  },
+  {
+    "solarInput": 364,
+    "SOC": 99.25,
+    "time": "2023-11-02T16:00",
+    "temperature": 21,
+    "cloudCoverage": 45,
+    "solar": 506
+  },
+  {
+    "solarInput": 144.5,
+    "SOC": 97.5,
+    "time": "2023-11-02T17:00",
+    "temperature": 20.6,
+    "cloudCoverage": 63,
+    "solar": 321
+  },
+  {
+    "solarInput": 15.333333333333334,
+    "SOC": 93.66666666666667,
+    "time": "2023-11-02T18:00",
+    "temperature": 20,
+    "cloudCoverage": 58,
+    "solar": 144
+  },
+  {
+    "solarInput": 0,
+    "SOC": 89,
+    "time": "2023-11-02T19:00",
+    "temperature": 19.3,
+    "cloudCoverage": 50,
+    "solar": 26
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.75,
+    "time": "2023-11-02T20:00",
+    "temperature": 18.6,
+    "cloudCoverage": 84,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.75,
+    "time": "2023-11-02T21:00",
+    "temperature": 18.6,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.83333333333333,
+    "time": "2023-11-02T22:00",
+    "temperature": 18.6,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.5,
+    "time": "2023-11-02T23:00",
+    "temperature": 17.5,
+    "cloudCoverage": 79,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.5,
+    "time": "2023-11-03T00:00",
+    "temperature": 17,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60,
+    "time": "2023-11-03T01:00",
+    "temperature": 16,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.25,
+    "time": "2023-11-03T02:00",
+    "temperature": 15.4,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 53.5,
+    "time": "2023-11-03T03:00",
+    "temperature": 15.4,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 50.75,
+    "time": "2023-11-03T04:00",
+    "temperature": 15.5,
+    "cloudCoverage": 69,
+    "solar": 0
+  },
+  {
+    "solarInput": 10.666666666666666,
+    "SOC": 47,
+    "time": "2023-11-03T05:00",
+    "temperature": 15,
+    "cloudCoverage": 57,
+    "solar": 0
+  },
+  {
+    "solarInput": 272.5,
+    "SOC": 45,
+    "time": "2023-11-03T06:00",
+    "temperature": 14.8,
+    "cloudCoverage": 44,
+    "solar": 0
+  },
+  {
+    "solarInput": 1199,
+    "SOC": 50,
+    "time": "2023-11-03T07:00",
+    "temperature": 15.7,
+    "cloudCoverage": 45,
+    "solar": 31
+  },
+  {
+    "solarInput": 1414,
+    "SOC": 67.16666666666667,
+    "time": "2023-11-03T08:00",
+    "temperature": 18,
+    "cloudCoverage": 62,
+    "solar": 139
+  },
+  {
+    "solarInput": 1902.5,
+    "SOC": 86.75,
+    "time": "2023-11-03T09:00",
+    "temperature": 19.7,
+    "cloudCoverage": 82,
+    "solar": 274
+  },
+  {
+    "solarInput": 420,
+    "SOC": 99,
+    "time": "2023-11-03T10:00",
+    "temperature": 20.9,
+    "cloudCoverage": 76,
+    "solar": 314
+  },
+  {
+    "solarInput": 268,
+    "SOC": 100,
+    "time": "2023-11-03T11:00",
+    "temperature": 21.7,
+    "cloudCoverage": 99,
+    "solar": 312
+  },
+  {
+    "solarInput": 915.3333333333334,
+    "SOC": 100,
+    "time": "2023-11-03T12:00",
+    "temperature": 22.6,
+    "cloudCoverage": 98,
+    "solar": 254
+  },
+  {
+    "solarInput": 411,
+    "SOC": 100,
+    "time": "2023-11-03T13:00",
+    "temperature": 22.5,
+    "cloudCoverage": 100,
+    "solar": 311
+  },
+  {
+    "solarInput": 421,
+    "SOC": 99.6,
+    "time": "2023-11-03T14:00",
+    "temperature": 22,
+    "cloudCoverage": 100,
+    "solar": 119
+  },
+  {
+    "solarInput": 152.33333333333334,
+    "SOC": 97.66666666666667,
+    "time": "2023-11-03T15:00",
+    "temperature": 21.8,
+    "cloudCoverage": 100,
+    "solar": 16
+  },
+  {
+    "solarInput": 96,
+    "SOC": 94.5,
+    "time": "2023-11-03T16:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 105.5,
+    "SOC": 93.5,
+    "time": "2023-11-03T17:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 13
+  },
+  {
+    "solarInput": 61.5,
+    "SOC": 91.75,
+    "time": "2023-11-03T18:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 8
+  },
+  {
+    "solarInput": 0,
+    "SOC": 87.66666666666667,
+    "time": "2023-11-03T19:00",
+    "temperature": 19,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.65,
+    "time": "2023-11-03T20:00",
+    "temperature": 18.5,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.75,
+    "time": "2023-11-03T21:00",
+    "temperature": 18.1,
+    "cloudCoverage": 82,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72,
+    "time": "2023-11-03T22:00",
+    "temperature": 17.9,
+    "cloudCoverage": 80,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.25,
+    "time": "2023-11-03T23:00",
+    "temperature": 17.8,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.5,
+    "time": "2023-11-04T00:00",
+    "temperature": 17.5,
+    "cloudCoverage": 69,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.5,
+    "time": "2023-11-04T01:00",
+    "temperature": 17,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.6,
+    "time": "2023-11-04T02:00",
+    "temperature": 16.6,
+    "cloudCoverage": 85,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 53.25,
+    "time": "2023-11-04T03:00",
+    "temperature": 16.5,
+    "cloudCoverage": 83,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 50.25,
+    "time": "2023-11-04T04:00",
+    "temperature": 16.6,
+    "cloudCoverage": 82,
+    "solar": 0
+  },
+  {
+    "solarInput": 17.666666666666668,
+    "SOC": 46.93333333333334,
+    "time": "2023-11-04T05:00",
+    "temperature": 16.2,
+    "cloudCoverage": 79,
+    "solar": 0
+  },
+  {
+    "solarInput": 503,
+    "SOC": 45.25,
+    "time": "2023-11-04T06:00",
+    "temperature": 16.2,
+    "cloudCoverage": 86,
+    "solar": 0
+  },
+  {
+    "solarInput": 868.5,
+    "SOC": 52.5,
+    "time": "2023-11-04T07:00",
+    "temperature": 16.9,
+    "cloudCoverage": 87,
+    "solar": 21
+  },
+  {
+    "solarInput": 2019,
+    "SOC": 64.35,
+    "time": "2023-11-04T08:00",
+    "temperature": 18.6,
+    "cloudCoverage": 93,
+    "solar": 111
+  },
+  {
+    "solarInput": 2130.3333333333335,
+    "SOC": 89,
+    "time": "2023-11-04T09:00",
+    "temperature": 19.8,
+    "cloudCoverage": 85,
+    "solar": 198
+  },
+  {
+    "solarInput": 756.5,
+    "SOC": 99,
+    "time": "2023-11-04T10:00",
+    "temperature": 20.6,
+    "cloudCoverage": 72,
+    "solar": 307
+  },
+  {
+    "solarInput": 286.5,
+    "SOC": 99,
+    "time": "2023-11-04T11:00",
+    "temperature": 21.6,
+    "cloudCoverage": 77,
+    "solar": 390
+  },
+  {
+    "solarInput": 246.66666666666666,
+    "SOC": 99,
+    "time": "2023-11-04T12:00",
+    "temperature": 22,
+    "cloudCoverage": 81,
+    "solar": 490
+  },
+  {
+    "solarInput": 296.5,
+    "SOC": 99,
+    "time": "2023-11-04T13:00",
+    "temperature": 22.7,
+    "cloudCoverage": 59,
+    "solar": 520
+  },
+  {
+    "solarInput": 164.5,
+    "SOC": 99,
+    "time": "2023-11-04T14:00",
+    "temperature": 22.8,
+    "cloudCoverage": 69,
+    "solar": 505
+  },
+  {
+    "solarInput": 119,
+    "SOC": 98,
+    "time": "2023-11-04T15:00",
+    "temperature": 22.6,
+    "cloudCoverage": 100,
+    "solar": 461
+  },
+  {
+    "solarInput": 423,
+    "SOC": 98.83333333333333,
+    "time": "2023-11-04T16:00",
+    "temperature": 21,
+    "cloudCoverage": 100,
+    "solar": 114
+  },
+  {
+    "solarInput": 113,
+    "SOC": 98.25,
+    "time": "2023-11-04T17:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 11
+  },
+  {
+    "solarInput": 47,
+    "SOC": 96.75,
+    "time": "2023-11-04T18:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 0.3333333333333333,
+    "SOC": 92.66666666666667,
+    "time": "2023-11-04T19:00",
+    "temperature": 19.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 87.25,
+    "time": "2023-11-04T20:00",
+    "temperature": 19,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.85,
+    "time": "2023-11-04T21:00",
+    "temperature": 18.7,
+    "cloudCoverage": 81,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.25,
+    "time": "2023-11-04T22:00",
+    "temperature": 18.5,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.83333333333333,
+    "time": "2023-11-04T23:00",
+    "temperature": 18.1,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.25,
+    "time": "2023-11-05T00:00",
+    "temperature": 18.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.25,
+    "time": "2023-11-05T01:00",
+    "temperature": 18.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.333333333333336,
+    "time": "2023-11-05T02:00",
+    "temperature": 18,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.1,
+    "time": "2023-11-05T03:00",
+    "temperature": 18.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 57,
+    "time": "2023-11-05T04:00",
+    "temperature": 18.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 54.5,
+    "time": "2023-11-05T05:00",
+    "temperature": 17.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 29,
+    "SOC": 51.166666666666664,
+    "time": "2023-11-05T06:00",
+    "temperature": 17.6,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 73,
+    "SOC": 48.85,
+    "time": "2023-11-05T07:00",
+    "temperature": 17.8,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 93,
+    "SOC": 47.25,
+    "time": "2023-11-05T08:00",
+    "temperature": 18.9,
+    "cloudCoverage": 100,
+    "solar": 21
+  },
+  {
+    "solarInput": 500.3333333333333,
+    "SOC": 47.333333333333336,
+    "time": "2023-11-05T09:00",
+    "temperature": 19.4,
+    "cloudCoverage": 100,
+    "solar": 37
+  },
+  {
+    "solarInput": 400,
+    "SOC": 49,
+    "time": "2023-11-05T10:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 45
+  },
+  {
+    "solarInput": 921,
+    "SOC": 51.5,
+    "time": "2023-11-05T11:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 87
+  },
+  {
+    "solarInput": 1265,
+    "SOC": 59.75,
+    "time": "2023-11-05T12:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 132
+  },
+  {
+    "solarInput": 1121,
+    "SOC": 74.10000000000001,
+    "time": "2023-11-05T13:00",
+    "temperature": 20.3,
+    "cloudCoverage": 95,
+    "solar": 151
+  },
+  {
+    "solarInput": 1743,
+    "SOC": 88.75,
+    "time": "2023-11-05T14:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 45
+  },
+  {
+    "solarInput": 680.5,
+    "SOC": 98.75,
+    "time": "2023-11-05T15:00",
+    "temperature": 20,
+    "cloudCoverage": 100,
+    "solar": 32
+  },
+  {
+    "solarInput": 366,
+    "SOC": 99.66666666666667,
+    "time": "2023-11-05T16:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 40
+  },
+  {
+    "solarInput": 176,
+    "SOC": 99.5,
+    "time": "2023-11-05T17:00",
+    "temperature": 19.4,
+    "cloudCoverage": 99,
+    "solar": 41
+  },
+  {
+    "solarInput": 6.5,
+    "SOC": 97.5,
+    "time": "2023-11-05T18:00",
+    "temperature": 19.4,
+    "cloudCoverage": 97,
+    "solar": 26
+  },
+  {
+    "solarInput": 0.5,
+    "SOC": 94.75,
+    "time": "2023-11-05T19:00",
+    "temperature": 18.8,
+    "cloudCoverage": 95,
+    "solar": 2
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90.66666666666667,
+    "time": "2023-11-05T20:00",
+    "temperature": 17.9,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 87,
+    "time": "2023-11-05T21:00",
+    "temperature": 17.7,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.75,
+    "time": "2023-11-05T22:00",
+    "temperature": 17.6,
+    "cloudCoverage": 91,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.66666666666667,
+    "time": "2023-11-05T23:00",
+    "temperature": 17.1,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.25,
+    "time": "2023-11-06T00:00",
+    "temperature": 17,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.5,
+    "time": "2023-11-06T01:00",
+    "temperature": 17,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.25,
+    "time": "2023-11-06T02:00",
+    "temperature": 16.7,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.6,
+    "time": "2023-11-06T03:00",
+    "temperature": 16.4,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.5,
+    "time": "2023-11-06T04:00",
+    "temperature": 16.2,
+    "cloudCoverage": 91,
+    "solar": 0
+  },
+  {
+    "solarInput": 1,
+    "SOC": 57.75,
+    "time": "2023-11-06T05:00",
+    "temperature": 16.3,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 153.33333333333334,
+    "SOC": 55.333333333333336,
+    "time": "2023-11-06T06:00",
+    "temperature": 16.3,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 349.5,
+    "SOC": 55.5,
+    "time": "2023-11-06T07:00",
+    "temperature": 16.7,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 708.5,
+    "SOC": 58.5,
+    "time": "2023-11-06T08:00",
+    "temperature": 17.4,
+    "cloudCoverage": 99,
+    "solar": 23
+  },
+  {
+    "solarInput": 902.5,
+    "SOC": 60.5,
+    "time": "2023-11-06T09:00",
+    "temperature": 18.1,
+    "cloudCoverage": 100,
+    "solar": 61
+  },
+  {
+    "solarInput": 1610,
+    "SOC": 74.73333333333333,
+    "time": "2023-11-06T10:00",
+    "temperature": 18.7,
+    "cloudCoverage": 90,
+    "solar": 79
+  },
+  {
+    "solarInput": 802,
+    "SOC": 86,
+    "time": "2023-11-06T11:00",
+    "temperature": 19.6,
+    "cloudCoverage": 92,
+    "solar": 129
+  },
+  {
+    "solarInput": 508,
+    "SOC": 90.5,
+    "time": "2023-11-06T12:00",
+    "temperature": 20.5,
+    "cloudCoverage": 83,
+    "solar": 329
+  },
+  {
+    "solarInput": 740.6666666666666,
+    "SOC": 97.66666666666667,
+    "time": "2023-11-06T13:00",
+    "temperature": 20.6,
+    "cloudCoverage": 83,
+    "solar": 282
+  },
+  {
+    "solarInput": 218,
+    "SOC": 99.25,
+    "time": "2023-11-06T14:00",
+    "temperature": 20.4,
+    "cloudCoverage": 90,
+    "solar": 229
+  },
+  {
+    "solarInput": 229,
+    "SOC": 100,
+    "time": "2023-11-06T15:00",
+    "temperature": 19.8,
+    "cloudCoverage": 81,
+    "solar": 159
+  },
+  {
+    "solarInput": 310,
+    "SOC": 99.75,
+    "time": "2023-11-06T16:00",
+    "temperature": 19.3,
+    "cloudCoverage": 97,
+    "solar": 162
+  },
+  {
+    "solarInput": 72.66666666666667,
+    "SOC": 99,
+    "time": "2023-11-06T17:00",
+    "temperature": 18.7,
+    "cloudCoverage": 89,
+    "solar": 119
+  },
+  {
+    "solarInput": 22,
+    "SOC": 96.75,
+    "time": "2023-11-06T18:00",
+    "temperature": 18.7,
+    "cloudCoverage": 88,
+    "solar": 68
+  },
+  {
+    "solarInput": 0,
+    "SOC": 93.75,
+    "time": "2023-11-06T19:00",
+    "temperature": 18.1,
+    "cloudCoverage": 99,
+    "solar": 12
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90.33333333333333,
+    "time": "2023-11-06T20:00",
+    "temperature": 18,
+    "cloudCoverage": 95,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.25,
+    "time": "2023-11-06T21:00",
+    "temperature": 17.7,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.75,
+    "time": "2023-11-06T22:00",
+    "temperature": 17.1,
+    "cloudCoverage": 83,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.35,
+    "time": "2023-11-06T23:00",
+    "temperature": 16.2,
+    "cloudCoverage": 86,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.33333333333333,
+    "time": "2023-11-07T00:00",
+    "temperature": 15.8,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.65,
+    "time": "2023-11-07T01:00",
+    "temperature": 15.7,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.75,
+    "time": "2023-11-07T02:00",
+    "temperature": 15.6,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68,
+    "time": "2023-11-07T03:00",
+    "temperature": 15.4,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.25,
+    "time": "2023-11-07T04:00",
+    "temperature": 15.2,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "solarInput": 24,
+    "SOC": 62.1,
+    "time": "2023-11-07T05:00",
+    "temperature": 14.5,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 393,
+    "SOC": 61.5,
+    "time": "2023-11-07T06:00",
+    "temperature": 14.1,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 1574.3333333333333,
+    "SOC": 72.66666666666667,
+    "time": "2023-11-07T07:00",
+    "temperature": 14.4,
+    "cloudCoverage": 90,
+    "solar": 16
+  },
+  {
+    "solarInput": 1630,
+    "SOC": 92.25,
+    "time": "2023-11-07T08:00",
+    "temperature": 16.4,
+    "cloudCoverage": 69,
+    "solar": 111
+  },
+  {
+    "solarInput": 609.5,
+    "SOC": 99.75,
+    "time": "2023-11-07T09:00",
+    "temperature": 18,
+    "cloudCoverage": 84,
+    "solar": 225
+  },
+  {
+    "solarInput": 865.3333333333334,
+    "SOC": 100,
+    "time": "2023-11-07T10:00",
+    "temperature": 19.3,
+    "cloudCoverage": 83,
+    "solar": 248
+  },
+  {
+    "solarInput": 1050,
+    "SOC": 100,
+    "time": "2023-11-07T11:00",
+    "temperature": 20.1,
+    "cloudCoverage": 76,
+    "solar": 414
+  },
+  {
+    "solarInput": 452,
+    "SOC": 100,
+    "time": "2023-11-07T12:00",
+    "temperature": 21.1,
+    "cloudCoverage": 76,
+    "solar": 515
+  },
+  {
+    "solarInput": 551.5,
+    "SOC": 100,
+    "time": "2023-11-07T13:00",
+    "temperature": 21.4,
+    "cloudCoverage": 82,
+    "solar": 505
+  },
+  {
+    "solarInput": 297.6666666666667,
+    "SOC": 100,
+    "time": "2023-11-07T14:00",
+    "temperature": 21.4,
+    "cloudCoverage": 71,
+    "solar": 539
+  },
+  {
+    "solarInput": 282,
+    "SOC": 100,
+    "time": "2023-11-07T15:00",
+    "temperature": 21.3,
+    "cloudCoverage": 58,
+    "solar": 480
+  },
+  {
+    "solarInput": 305,
+    "SOC": 100,
+    "time": "2023-11-07T16:00",
+    "temperature": 21.1,
+    "cloudCoverage": 51,
+    "solar": 427
+  },
+  {
+    "solarInput": 260.6666666666667,
+    "SOC": 99.66666666666667,
+    "time": "2023-11-07T17:00",
+    "temperature": 20.8,
+    "cloudCoverage": 58,
+    "solar": 290
+  },
+  {
+    "solarInput": 77.5,
+    "SOC": 97.25,
+    "time": "2023-11-07T18:00",
+    "temperature": 20.2,
+    "cloudCoverage": 59,
+    "solar": 141
+  },
+  {
+    "solarInput": 0,
+    "SOC": 93.5,
+    "time": "2023-11-07T19:00",
+    "temperature": 19.3,
+    "cloudCoverage": 50,
+    "solar": 35
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90,
+    "time": "2023-11-07T20:00",
+    "temperature": 18,
+    "cloudCoverage": 68,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.5,
+    "time": "2023-11-07T21:00",
+    "temperature": 17.4,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.25,
+    "time": "2023-11-07T22:00",
+    "temperature": 17.1,
+    "cloudCoverage": 71,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 75.75,
+    "time": "2023-11-07T23:00",
+    "temperature": 16.8,
+    "cloudCoverage": 91,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.33333333333333,
+    "time": "2023-11-08T00:00",
+    "temperature": 16.7,
+    "cloudCoverage": 85,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.25,
+    "time": "2023-11-08T01:00",
+    "temperature": 16.3,
+    "cloudCoverage": 34,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.5,
+    "time": "2023-11-08T02:00",
+    "temperature": 16,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61,
+    "time": "2023-11-08T03:00",
+    "temperature": 15.8,
+    "cloudCoverage": 51,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.666666666666664,
+    "time": "2023-11-08T04:00",
+    "temperature": 15.7,
+    "cloudCoverage": 43,
+    "solar": 0
+  },
+  {
+    "solarInput": 28,
+    "SOC": 53.75,
+    "time": "2023-11-08T05:00",
+    "temperature": 15.3,
+    "cloudCoverage": 55,
+    "solar": 0
+  },
+  {
+    "solarInput": 623.5,
+    "SOC": 53,
+    "time": "2023-11-08T06:00",
+    "temperature": 15.1,
+    "cloudCoverage": 48,
+    "solar": 0
+  },
+  {
+    "solarInput": 1612.6666666666667,
+    "SOC": 64.56666666666666,
+    "time": "2023-11-08T07:00",
+    "temperature": 16.1,
+    "cloudCoverage": 62,
+    "solar": 42
+  },
+  {
+    "solarInput": 2187,
+    "SOC": 84.5,
+    "time": "2023-11-08T08:00",
+    "temperature": 18.7,
+    "cloudCoverage": 49,
+    "solar": 200
+  },
+  {
+    "solarInput": 275.5,
+    "SOC": 98.5,
+    "time": "2023-11-08T09:00",
+    "temperature": 20.5,
+    "cloudCoverage": 64,
+    "solar": 343
+  },
+  {
+    "solarInput": 258.5,
+    "SOC": 100,
+    "time": "2023-11-08T10:00",
+    "temperature": 21.6,
+    "cloudCoverage": 47,
+    "solar": 490
+  },
+  {
+    "solarInput": 342.6666666666667,
+    "SOC": 100,
+    "time": "2023-11-08T11:00",
+    "temperature": 23.2,
+    "cloudCoverage": 64,
+    "solar": 585
+  },
+  {
+    "solarInput": 610.5,
+    "SOC": 100,
+    "time": "2023-11-08T12:00",
+    "temperature": 23.9,
+    "cloudCoverage": 54,
+    "solar": 533
+  },
+  {
+    "solarInput": 330.5,
+    "SOC": 100,
+    "time": "2023-11-08T13:00",
+    "temperature": 24.4,
+    "cloudCoverage": 36,
+    "solar": 737
+  },
+  {
+    "solarInput": 489.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-08T14:00",
+    "temperature": 24.1,
+    "cloudCoverage": 31,
+    "solar": 823
+  },
+  {
+    "solarInput": 397.5,
+    "SOC": 100,
+    "time": "2023-11-08T15:00",
+    "temperature": 23.5,
+    "cloudCoverage": 40,
+    "solar": 706
+  },
+  {
+    "solarInput": 336.5,
+    "SOC": 100,
+    "time": "2023-11-08T16:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 551
+  },
+  {
+    "solarInput": 253.5,
+    "SOC": 98.75,
+    "time": "2023-11-08T17:00",
+    "temperature": 22.4,
+    "cloudCoverage": 33,
+    "solar": 183
+  },
+  {
+    "solarInput": 89.66666666666667,
+    "SOC": 95.56666666666666,
+    "time": "2023-11-08T18:00",
+    "temperature": 21.6,
+    "cloudCoverage": 100,
+    "solar": 175
+  },
+  {
+    "solarInput": 0,
+    "SOC": 91,
+    "time": "2023-11-08T19:00",
+    "temperature": 20.8,
+    "cloudCoverage": 100,
+    "solar": 19
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.25,
+    "time": "2023-11-08T20:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.16666666666667,
+    "time": "2023-11-08T21:00",
+    "temperature": 19.9,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.25,
+    "time": "2023-11-08T22:00",
+    "temperature": 19.7,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.25,
+    "time": "2023-11-08T23:00",
+    "temperature": 19.4,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.25,
+    "time": "2023-11-09T00:00",
+    "temperature": 19,
+    "cloudCoverage": 34,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.166666666666664,
+    "time": "2023-11-09T01:00",
+    "temperature": 18.7,
+    "cloudCoverage": 41,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 58.25,
+    "time": "2023-11-09T02:00",
+    "temperature": 18.4,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 53.75,
+    "time": "2023-11-09T03:00",
+    "temperature": 17.8,
+    "cloudCoverage": 31,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 48.666666666666664,
+    "time": "2023-11-09T04:00",
+    "temperature": 17.3,
+    "cloudCoverage": 4,
+    "solar": 0
+  },
+  {
+    "solarInput": 20.5,
+    "SOC": 45.25,
+    "time": "2023-11-09T05:00",
+    "temperature": 17.1,
+    "cloudCoverage": 12,
+    "solar": 0
+  },
+  {
+    "solarInput": 284,
+    "SOC": 43,
+    "time": "2023-11-09T06:00",
+    "temperature": 16.8,
+    "cloudCoverage": 54,
+    "solar": 0
+  },
+  {
+    "solarInput": 765,
+    "SOC": 44.5,
+    "time": "2023-11-09T07:00",
+    "temperature": 18.1,
+    "cloudCoverage": 92,
+    "solar": 52
+  },
+  {
+    "solarInput": 1210.6666666666667,
+    "SOC": 57.333333333333336,
+    "time": "2023-11-09T08:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 199
+  },
+  {
+    "solarInput": 2067,
+    "SOC": 79,
+    "time": "2023-11-09T09:00",
+    "temperature": 21.7,
+    "cloudCoverage": 100,
+    "solar": 362
+  },
+  {
+    "solarInput": 776.5,
+    "SOC": 96.5,
+    "time": "2023-11-09T10:00",
+    "temperature": 22.6,
+    "cloudCoverage": 100,
+    "solar": 440
+  },
+  {
+    "solarInput": 773,
+    "SOC": 98.83333333333333,
+    "time": "2023-11-09T11:00",
+    "temperature": 23.7,
+    "cloudCoverage": 100,
+    "solar": 368
+  },
+  {
+    "solarInput": 330,
+    "SOC": 100,
+    "time": "2023-11-09T12:00",
+    "temperature": 24.5,
+    "cloudCoverage": 42,
+    "solar": 642
+  },
+  {
+    "solarInput": 328,
+    "SOC": 100,
+    "time": "2023-11-09T13:00",
+    "temperature": 24.8,
+    "cloudCoverage": 100,
+    "solar": 891
+  },
+  {
+    "solarInput": 608.5,
+    "SOC": 99.5,
+    "time": "2023-11-09T14:00",
+    "temperature": 24.3,
+    "cloudCoverage": 100,
+    "solar": 596
+  },
+  {
+    "solarInput": 61.666666666666664,
+    "SOC": 96.33333333333333,
+    "time": "2023-11-09T15:00",
+    "temperature": 23.6,
+    "cloudCoverage": 100,
+    "solar": 269
+  },
+  {
+    "solarInput": 304,
+    "SOC": 92.75,
+    "time": "2023-11-09T16:00",
+    "temperature": 23.2,
+    "cloudCoverage": 100,
+    "solar": 138
+  },
+  {
+    "solarInput": 328,
+    "SOC": 92,
+    "time": "2023-11-09T17:00",
+    "temperature": 22,
+    "cloudCoverage": 100,
+    "solar": 43
+  },
+  {
+    "solarInput": 75,
+    "SOC": 88.66666666666667,
+    "time": "2023-11-09T18:00",
+    "temperature": 21.6,
+    "cloudCoverage": 100,
+    "solar": 7
+  },
+  {
+    "solarInput": 0,
+    "SOC": 85.25,
+    "time": "2023-11-09T19:00",
+    "temperature": 21,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.5,
+    "time": "2023-11-09T20:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.25,
+    "time": "2023-11-09T21:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.66666666666667,
+    "time": "2023-11-09T22:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66,
+    "time": "2023-11-09T23:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61,
+    "time": "2023-11-10T00:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.333333333333336,
+    "time": "2023-11-10T01:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 51.25,
+    "time": "2023-11-10T02:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 47.5,
+    "time": "2023-11-10T03:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 44.25,
+    "time": "2023-11-10T04:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 17,
+    "SOC": 40.333333333333336,
+    "time": "2023-11-10T05:00",
+    "temperature": 19.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 131.5,
+    "SOC": 37.5,
+    "time": "2023-11-10T06:00",
+    "temperature": 18.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 307.5,
+    "SOC": 37,
+    "time": "2023-11-10T07:00",
+    "temperature": 19,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 514.6666666666666,
+    "SOC": 38,
+    "time": "2023-11-10T08:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 22
+  },
+  {
+    "solarInput": 924.5,
+    "SOC": 42.5,
+    "time": "2023-11-10T09:00",
+    "temperature": 20.7,
+    "cloudCoverage": 86,
+    "solar": 137
+  },
+  {
+    "solarInput": 1576.5,
+    "SOC": 56.75,
+    "time": "2023-11-10T10:00",
+    "temperature": 21.6,
+    "cloudCoverage": 77,
+    "solar": 302
+  },
+  {
+    "solarInput": 1765.5,
+    "SOC": 66.25,
+    "time": "2023-11-10T11:00",
+    "temperature": 22.6,
+    "cloudCoverage": 85,
+    "solar": 338
+  },
+  {
+    "solarInput": 1220,
+    "SOC": 75.16666666666667,
+    "time": "2023-11-10T12:00",
+    "temperature": 23.7,
+    "cloudCoverage": 73,
+    "solar": 454
+  },
+  {
+    "solarInput": 1088,
+    "SOC": 86.5,
+    "time": "2023-11-10T13:00",
+    "temperature": 24.9,
+    "cloudCoverage": 43,
+    "solar": 648
+  },
+  {
+    "solarInput": 256,
+    "SOC": 89.4,
+    "time": "2023-11-10T14:00",
+    "temperature": 25.1,
+    "cloudCoverage": 100,
+    "solar": 632
+  },
+  {
+    "solarInput": 272,
+    "SOC": 89,
+    "time": "2023-11-10T15:00",
+    "temperature": 24.3,
+    "cloudCoverage": 100,
+    "solar": 343
+  },
+  {
+    "solarInput": 804,
+    "SOC": 91.5,
+    "time": "2023-11-10T16:00",
+    "temperature": 22,
+    "cloudCoverage": 100,
+    "solar": 87
+  },
+  {
+    "solarInput": 277,
+    "SOC": 95.75,
+    "time": "2023-11-10T17:00",
+    "temperature": 21.6,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 77.5,
+    "SOC": 94.75,
+    "time": "2023-11-10T18:00",
+    "temperature": 21.2,
+    "cloudCoverage": 100,
+    "solar": 8
+  },
+  {
+    "solarInput": 1.3333333333333333,
+    "SOC": 90,
+    "time": "2023-11-10T19:00",
+    "temperature": 20.6,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 84.5,
+    "time": "2023-11-10T20:00",
+    "temperature": 20.2,
+    "cloudCoverage": 68,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.75,
+    "time": "2023-11-10T21:00",
+    "temperature": 20,
+    "cloudCoverage": 74,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.33333333333333,
+    "time": "2023-11-10T22:00",
+    "temperature": 19.7,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.75,
+    "time": "2023-11-10T23:00",
+    "temperature": 19,
+    "cloudCoverage": 67,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69,
+    "time": "2023-11-11T00:00",
+    "temperature": 18.9,
+    "cloudCoverage": 65,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.75,
+    "time": "2023-11-11T01:00",
+    "temperature": 18.9,
+    "cloudCoverage": 72,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61,
+    "time": "2023-11-11T02:00",
+    "temperature": 18.7,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 57.25,
+    "time": "2023-11-11T03:00",
+    "temperature": 18.4,
+    "cloudCoverage": 72,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 53.75,
+    "time": "2023-11-11T04:00",
+    "temperature": 18.2,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "solarInput": 52.666666666666664,
+    "SOC": 49.666666666666664,
+    "time": "2023-11-11T05:00",
+    "temperature": 17.5,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "solarInput": 304.5,
+    "SOC": 47.25,
+    "time": "2023-11-11T06:00",
+    "temperature": 17.4,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "solarInput": 1770.5,
+    "SOC": 54.25,
+    "time": "2023-11-11T07:00",
+    "temperature": 18.4,
+    "cloudCoverage": 59,
+    "solar": 35
+  },
+  {
+    "solarInput": 2136.5,
+    "SOC": 70.15,
+    "time": "2023-11-11T08:00",
+    "temperature": 20.1,
+    "cloudCoverage": 66,
+    "solar": 149
+  },
+  {
+    "solarInput": 1984.6666666666667,
+    "SOC": 92.5,
+    "time": "2023-11-11T09:00",
+    "temperature": 21.3,
+    "cloudCoverage": 67,
+    "solar": 251
+  },
+  {
+    "solarInput": 511.5,
+    "SOC": 99,
+    "time": "2023-11-11T10:00",
+    "temperature": 22.2,
+    "cloudCoverage": 56,
+    "solar": 389
+  },
+  {
+    "solarInput": 752,
+    "SOC": 99,
+    "time": "2023-11-11T11:00",
+    "temperature": 23.5,
+    "cloudCoverage": 56,
+    "solar": 473
+  },
+  {
+    "solarInput": 317.3333333333333,
+    "SOC": 99,
+    "time": "2023-11-11T12:00",
+    "temperature": 24.2,
+    "cloudCoverage": 74,
+    "solar": 583
+  },
+  {
+    "solarInput": 501,
+    "SOC": 99,
+    "time": "2023-11-11T13:00",
+    "temperature": 24.4,
+    "cloudCoverage": 35,
+    "solar": 742
+  },
+  {
+    "solarInput": 233.5,
+    "SOC": 99,
+    "time": "2023-11-11T14:00",
+    "temperature": 24.4,
+    "cloudCoverage": 24,
+    "solar": 836
+  },
+  {
+    "solarInput": 234.5,
+    "SOC": 99,
+    "time": "2023-11-11T15:00",
+    "temperature": 24.1,
+    "cloudCoverage": 22,
+    "solar": 780
+  },
+  {
+    "solarInput": 275.6666666666667,
+    "SOC": 99,
+    "time": "2023-11-11T16:00",
+    "temperature": 23.5,
+    "cloudCoverage": 7,
+    "solar": 635
+  },
+  {
+    "solarInput": 205.5,
+    "SOC": 99,
+    "time": "2023-11-11T17:00",
+    "temperature": 23.1,
+    "cloudCoverage": 23,
+    "solar": 429
+  },
+  {
+    "solarInput": 69,
+    "SOC": 97.5,
+    "time": "2023-11-11T18:00",
+    "temperature": 22.1,
+    "cloudCoverage": 42,
+    "solar": 226
+  },
+  {
+    "solarInput": 2,
+    "SOC": 94.66666666666667,
+    "time": "2023-11-11T19:00",
+    "temperature": 21.2,
+    "cloudCoverage": 63,
+    "solar": 47
+  },
+  {
+    "solarInput": 0,
+    "SOC": 91.5,
+    "time": "2023-11-11T20:00",
+    "temperature": 20.7,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 89,
+    "time": "2023-11-11T21:00",
+    "temperature": 20.5,
+    "cloudCoverage": 53,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.5,
+    "time": "2023-11-11T22:00",
+    "temperature": 20.4,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.73333333333333,
+    "time": "2023-11-11T23:00",
+    "temperature": 20.1,
+    "cloudCoverage": 12,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.5,
+    "time": "2023-11-12T00:00",
+    "temperature": 19.7,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 75.6,
+    "time": "2023-11-12T01:00",
+    "temperature": 19.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.5,
+    "time": "2023-11-12T02:00",
+    "temperature": 19.1,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.25,
+    "time": "2023-11-12T03:00",
+    "temperature": 18.8,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 1,
+    "SOC": 63.65,
+    "time": "2023-11-12T04:00",
+    "temperature": 18.6,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 14.5,
+    "SOC": 60.5,
+    "time": "2023-11-12T05:00",
+    "temperature": 18.3,
+    "cloudCoverage": 7,
+    "solar": 0
+  },
+  {
+    "solarInput": 578,
+    "SOC": 59.06666666666666,
+    "time": "2023-11-12T06:00",
+    "temperature": 18.2,
+    "cloudCoverage": 6,
+    "solar": 1
+  },
+  {
+    "solarInput": 1552.5,
+    "SOC": 68.25,
+    "time": "2023-11-12T07:00",
+    "temperature": 19.2,
+    "cloudCoverage": 0,
+    "solar": 64
+  },
+  {
+    "solarInput": 2060,
+    "SOC": 84.25,
+    "time": "2023-11-12T08:00",
+    "temperature": 21.1,
+    "cloudCoverage": 3,
+    "solar": 248
+  },
+  {
+    "solarInput": 1076.3333333333333,
+    "SOC": 98.43333333333334,
+    "time": "2023-11-12T09:00",
+    "temperature": 22.7,
+    "cloudCoverage": 0,
+    "solar": 454
+  },
+  {
+    "solarInput": 309,
+    "SOC": 99,
+    "time": "2023-11-12T10:00",
+    "temperature": 24.3,
+    "cloudCoverage": 0,
+    "solar": 646
+  },
+  {
+    "solarInput": 316.5,
+    "SOC": 99,
+    "time": "2023-11-12T11:00",
+    "temperature": 26.1,
+    "cloudCoverage": 0,
+    "solar": 797
+  },
+  {
+    "solarInput": 314.5,
+    "SOC": 99,
+    "time": "2023-11-12T12:00",
+    "temperature": 27.3,
+    "cloudCoverage": 2,
+    "solar": 894
+  },
+  {
+    "solarInput": 316.6666666666667,
+    "SOC": 99,
+    "time": "2023-11-12T13:00",
+    "temperature": 27.8,
+    "cloudCoverage": 14,
+    "solar": 924
+  },
+  {
+    "solarInput": 555.5,
+    "SOC": 99,
+    "time": "2023-11-12T14:00",
+    "temperature": 27.7,
+    "cloudCoverage": 45,
+    "solar": 891
+  },
+  {
+    "solarInput": 497,
+    "SOC": 99,
+    "time": "2023-11-12T15:00",
+    "temperature": 26.9,
+    "cloudCoverage": 30,
+    "solar": 786
+  },
+  {
+    "solarInput": 351.3333333333333,
+    "SOC": 99,
+    "time": "2023-11-12T16:00",
+    "temperature": 25.8,
+    "cloudCoverage": 8,
+    "solar": 638
+  },
+  {
+    "solarInput": 219.5,
+    "SOC": 99,
+    "time": "2023-11-12T17:00",
+    "temperature": 24.2,
+    "cloudCoverage": 0,
+    "solar": 449
+  },
+  {
+    "solarInput": 56.5,
+    "SOC": 96.5,
+    "time": "2023-11-12T18:00",
+    "temperature": 23.1,
+    "cloudCoverage": 0,
+    "solar": 250
+  },
+  {
+    "solarInput": 2,
+    "SOC": 92.75,
+    "time": "2023-11-12T19:00",
+    "temperature": 22.1,
+    "cloudCoverage": 5,
+    "solar": 66
+  },
+  {
+    "solarInput": 0,
+    "SOC": 85.5,
+    "time": "2023-11-12T20:00",
+    "temperature": 21.5,
+    "cloudCoverage": 3,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.25,
+    "time": "2023-11-12T21:00",
+    "temperature": 21.5,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.75,
+    "time": "2023-11-12T22:00",
+    "temperature": 21.1,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.66666666666667,
+    "time": "2023-11-12T23:00",
+    "temperature": 20.6,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69,
+    "time": "2023-11-13T00:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.5,
+    "time": "2023-11-13T01:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.25,
+    "time": "2023-11-13T02:00",
+    "temperature": 20,
+    "cloudCoverage": 12,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.666666666666664,
+    "time": "2023-11-13T03:00",
+    "temperature": 19.6,
+    "cloudCoverage": 44,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 52.5,
+    "time": "2023-11-13T04:00",
+    "temperature": 20.8,
+    "cloudCoverage": 38,
+    "solar": 0
+  },
+  {
+    "solarInput": 20.5,
+    "SOC": 48.75,
+    "time": "2023-11-13T05:00",
+    "temperature": 21.1,
+    "cloudCoverage": 45,
+    "solar": 0
+  },
+  {
+    "solarInput": 540,
+    "SOC": 48.5,
+    "time": "2023-11-13T06:00",
+    "temperature": 20.7,
+    "cloudCoverage": 54,
+    "solar": 0
+  },
+  {
+    "solarInput": 1163.5,
+    "SOC": 51.75,
+    "time": "2023-11-13T07:00",
+    "temperature": 20.6,
+    "cloudCoverage": 55,
+    "solar": 38
+  },
+  {
+    "solarInput": 618.5,
+    "SOC": 55,
+    "time": "2023-11-13T08:00",
+    "temperature": 21.1,
+    "cloudCoverage": 59,
+    "solar": 138
+  },
+  {
+    "solarInput": 607.5,
+    "SOC": 59.65,
+    "time": "2023-11-13T09:00",
+    "temperature": 21.5,
+    "cloudCoverage": 72,
+    "solar": 229
+  },
+  {
+    "solarInput": 2044.6666666666667,
+    "SOC": 71.16666666666667,
+    "time": "2023-11-13T10:00",
+    "temperature": 22,
+    "cloudCoverage": 65,
+    "solar": 306
+  },
+  {
+    "solarInput": 300,
+    "SOC": 79,
+    "time": "2023-11-13T11:00",
+    "temperature": 22,
+    "cloudCoverage": 75,
+    "solar": 397
+  },
+  {
+    "solarInput": 625.5,
+    "SOC": 77.25,
+    "time": "2023-11-13T12:00",
+    "temperature": 22.4,
+    "cloudCoverage": 89,
+    "solar": 379
+  },
+  {
+    "solarInput": 641.6666666666666,
+    "SOC": 81.66666666666667,
+    "time": "2023-11-13T13:00",
+    "temperature": 22.4,
+    "cloudCoverage": 96,
+    "solar": 333
+  },
+  {
+    "solarInput": 584.5,
+    "SOC": 86.75,
+    "time": "2023-11-13T14:00",
+    "temperature": 22.1,
+    "cloudCoverage": 97,
+    "solar": 226
+  },
+  {
+    "solarInput": 473,
+    "SOC": 89,
+    "time": "2023-11-13T15:00",
+    "temperature": 21.8,
+    "cloudCoverage": 95,
+    "solar": 159
+  },
+  {
+    "solarInput": 353.5,
+    "SOC": 91,
+    "time": "2023-11-13T16:00",
+    "temperature": 21.5,
+    "cloudCoverage": 97,
+    "solar": 97
+  },
+  {
+    "solarInput": 151.33333333333334,
+    "SOC": 91,
+    "time": "2023-11-13T17:00",
+    "temperature": 21.1,
+    "cloudCoverage": 98,
+    "solar": 47
+  },
+  {
+    "solarInput": 21.5,
+    "SOC": 89.5,
+    "time": "2023-11-13T18:00",
+    "temperature": 20.6,
+    "cloudCoverage": 98,
+    "solar": 15
+  },
+  {
+    "solarInput": 0,
+    "SOC": 85.75,
+    "time": "2023-11-13T19:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": -1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.5,
+    "time": "2023-11-13T20:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.25,
+    "time": "2023-11-13T21:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.5,
+    "time": "2023-11-13T22:00",
+    "temperature": 19.3,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69.25,
+    "time": "2023-11-13T23:00",
+    "temperature": 18.8,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.33333333333333,
+    "time": "2023-11-14T00:00",
+    "temperature": 18.3,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.5,
+    "time": "2023-11-14T01:00",
+    "temperature": 17.8,
+    "cloudCoverage": 39,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.75,
+    "time": "2023-11-14T02:00",
+    "temperature": 17.2,
+    "cloudCoverage": 34,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 52,
+    "time": "2023-11-14T03:00",
+    "temperature": 16.8,
+    "cloudCoverage": 42,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 47.25,
+    "time": "2023-11-14T04:00",
+    "temperature": 16.3,
+    "cloudCoverage": 44,
+    "solar": 0
+  },
+  {
+    "solarInput": 36,
+    "SOC": 43.5,
+    "time": "2023-11-14T05:00",
+    "temperature": 16.1,
+    "cloudCoverage": 40,
+    "solar": 0
+  },
+  {
+    "solarInput": 287.5,
+    "SOC": 42,
+    "time": "2023-11-14T06:00",
+    "temperature": 15.7,
+    "cloudCoverage": 0,
+    "solar": 1
+  },
+  {
+    "solarInput": 1562,
+    "SOC": 51,
+    "time": "2023-11-14T07:00",
+    "temperature": 16.9,
+    "cloudCoverage": 0,
+    "solar": 61
+  },
+  {
+    "solarInput": 2240,
+    "SOC": 70.5,
+    "time": "2023-11-14T08:00",
+    "temperature": 19.7,
+    "cloudCoverage": 0,
+    "solar": 254
+  },
+  {
+    "solarInput": 2543,
+    "SOC": 93,
+    "time": "2023-11-14T09:00",
+    "temperature": 21.4,
+    "cloudCoverage": 77,
+    "solar": 372
+  },
+  {
+    "solarInput": 765,
+    "SOC": 99.5,
+    "time": "2023-11-14T10:00",
+    "temperature": 22.5,
+    "cloudCoverage": 41,
+    "solar": 556
+  },
+  {
+    "solarInput": 507,
+    "SOC": 100,
+    "time": "2023-11-14T11:00",
+    "temperature": 23.4,
+    "cloudCoverage": 37,
+    "solar": 704
+  },
+  {
+    "solarInput": 477,
+    "SOC": 100,
+    "time": "2023-11-14T12:00",
+    "temperature": 24,
+    "cloudCoverage": 27,
+    "solar": 828
+  },
+  {
+    "solarInput": 821.5,
+    "SOC": 100,
+    "time": "2023-11-14T13:00",
+    "temperature": 24.3,
+    "cloudCoverage": 22,
+    "solar": 896
+  },
+  {
+    "solarInput": 273.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-14T14:00",
+    "temperature": 24.3,
+    "cloudCoverage": 27,
+    "solar": 858
+  },
+  {
+    "solarInput": 277,
+    "SOC": 100,
+    "time": "2023-11-14T15:00",
+    "temperature": 23.9,
+    "cloudCoverage": 35,
+    "solar": 736
+  },
+  {
+    "solarInput": 276,
+    "SOC": 100,
+    "time": "2023-11-14T16:00",
+    "temperature": 23.3,
+    "cloudCoverage": 42,
+    "solar": 592
+  },
+  {
+    "solarInput": 314.6666666666667,
+    "SOC": 99.16666666666667,
+    "time": "2023-11-14T17:00",
+    "temperature": 22.6,
+    "cloudCoverage": 53,
+    "solar": 382
+  },
+  {
+    "solarInput": 74,
+    "SOC": 97.25,
+    "time": "2023-11-14T18:00",
+    "temperature": 21.9,
+    "cloudCoverage": 59,
+    "solar": 178
+  },
+  {
+    "solarInput": 0,
+    "SOC": 93.25,
+    "time": "2023-11-14T19:00",
+    "temperature": 21.2,
+    "cloudCoverage": 90,
+    "solar": 40
+  },
+  {
+    "solarInput": 0,
+    "SOC": 89,
+    "time": "2023-11-14T20:00",
+    "temperature": 20.6,
+    "cloudCoverage": 97,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.16666666666667,
+    "time": "2023-11-14T21:00",
+    "temperature": 20.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.5,
+    "time": "2023-11-14T22:00",
+    "temperature": 20.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 74.25,
+    "time": "2023-11-14T23:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69.5,
+    "time": "2023-11-15T00:00",
+    "temperature": 19.9,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.25,
+    "time": "2023-11-15T01:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.5,
+    "time": "2023-11-15T02:00",
+    "temperature": 19.5,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 58.75,
+    "time": "2023-11-15T03:00",
+    "temperature": 19.3,
+    "cloudCoverage": 81,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 54.666666666666664,
+    "time": "2023-11-15T04:00",
+    "temperature": 19.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 28.5,
+    "SOC": 50.5,
+    "time": "2023-11-15T05:00",
+    "temperature": 18.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 295,
+    "SOC": 48.5,
+    "time": "2023-11-15T06:00",
+    "temperature": 18.6,
+    "cloudCoverage": 47,
+    "solar": 1
+  },
+  {
+    "solarInput": 604,
+    "SOC": 52.666666666666664,
+    "time": "2023-11-15T07:00",
+    "temperature": 19.2,
+    "cloudCoverage": 60,
+    "solar": 34
+  },
+  {
+    "solarInput": 345,
+    "SOC": 56.5,
+    "time": "2023-11-15T08:00",
+    "temperature": 21.1,
+    "cloudCoverage": 89,
+    "solar": 133
+  },
+  {
+    "solarInput": 392.5,
+    "SOC": 57.75,
+    "time": "2023-11-15T09:00",
+    "temperature": 23,
+    "cloudCoverage": 95,
+    "solar": 206
+  },
+  {
+    "solarInput": 1063.5,
+    "SOC": 60,
+    "time": "2023-11-15T10:00",
+    "temperature": 23.9,
+    "cloudCoverage": 100,
+    "solar": 225
+  },
+  {
+    "solarInput": 1561.6666666666667,
+    "SOC": 73,
+    "time": "2023-11-15T11:00",
+    "temperature": 23.8,
+    "cloudCoverage": 100,
+    "solar": 202
+  },
+  {
+    "solarInput": 1891.5,
+    "SOC": 90.75,
+    "time": "2023-11-15T12:00",
+    "temperature": 25.3,
+    "cloudCoverage": 100,
+    "solar": 304
+  },
+  {
+    "solarInput": 411,
+    "SOC": 99.5,
+    "time": "2023-11-15T13:00",
+    "temperature": 25.6,
+    "cloudCoverage": 100,
+    "solar": 246
+  },
+  {
+    "solarInput": 426.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-15T14:00",
+    "temperature": 26.5,
+    "cloudCoverage": 83,
+    "solar": 603
+  },
+  {
+    "solarInput": 461.5,
+    "SOC": 100,
+    "time": "2023-11-15T15:00",
+    "temperature": 26.3,
+    "cloudCoverage": 75,
+    "solar": 662
+  },
+  {
+    "solarInput": 293.5,
+    "SOC": 100,
+    "time": "2023-11-15T16:00",
+    "temperature": 25.5,
+    "cloudCoverage": 79,
+    "solar": 559
+  },
+  {
+    "solarInput": 257.5,
+    "SOC": 99.5,
+    "time": "2023-11-15T17:00",
+    "temperature": 24.9,
+    "cloudCoverage": 57,
+    "solar": 375
+  },
+  {
+    "solarInput": 97.33333333333333,
+    "SOC": 96.33333333333333,
+    "time": "2023-11-15T18:00",
+    "temperature": 23.8,
+    "cloudCoverage": 83,
+    "solar": 164
+  },
+  {
+    "solarInput": 0,
+    "SOC": 92.5,
+    "time": "2023-11-15T19:00",
+    "temperature": 22.7,
+    "cloudCoverage": 72,
+    "solar": 34
+  },
+  {
+    "solarInput": 0,
+    "SOC": 88.75,
+    "time": "2023-11-15T20:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 84.10000000000001,
+    "time": "2023-11-15T21:00",
+    "temperature": 20.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.25,
+    "time": "2023-11-15T22:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 74.75,
+    "time": "2023-11-15T23:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.5,
+    "time": "2023-11-16T00:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.89999999999999,
+    "time": "2023-11-16T01:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.5,
+    "time": "2023-11-16T02:00",
+    "temperature": 19.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.5,
+    "time": "2023-11-16T03:00",
+    "temperature": 19.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 57.5,
+    "time": "2023-11-16T04:00",
+    "temperature": 19,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 34,
+    "SOC": 54.25,
+    "time": "2023-11-16T05:00",
+    "temperature": 18.6,
+    "cloudCoverage": 48,
+    "solar": 0
+  },
+  {
+    "solarInput": 479,
+    "SOC": 52.5,
+    "time": "2023-11-16T06:00",
+    "temperature": 18.4,
+    "cloudCoverage": 30,
+    "solar": 1
+  },
+  {
+    "solarInput": 1304,
+    "SOC": 57.5,
+    "time": "2023-11-16T07:00",
+    "temperature": 19.6,
+    "cloudCoverage": 52,
+    "solar": 45
+  },
+  {
+    "solarInput": 2076,
+    "SOC": 76.5,
+    "time": "2023-11-16T08:00",
+    "temperature": 21.2,
+    "cloudCoverage": 53,
+    "solar": 184
+  },
+  {
+    "solarInput": 936,
+    "SOC": 96,
+    "time": "2023-11-16T09:00",
+    "temperature": 22.7,
+    "cloudCoverage": 100,
+    "solar": 324
+  },
+  {
+    "solarInput": 346.5,
+    "SOC": 99.75,
+    "time": "2023-11-16T10:00",
+    "temperature": 23.8,
+    "cloudCoverage": 42,
+    "solar": 455
+  },
+  {
+    "solarInput": 509.6666666666667,
+    "SOC": 100,
+    "time": "2023-11-16T11:00",
+    "temperature": 24.4,
+    "cloudCoverage": 53,
+    "solar": 584
+  },
+  {
+    "solarInput": 431.5,
+    "SOC": 100,
+    "time": "2023-11-16T12:00",
+    "temperature": 24.9,
+    "cloudCoverage": 53,
+    "solar": 712
+  },
+  {
+    "solarInput": 382.5,
+    "SOC": 100,
+    "time": "2023-11-16T13:00",
+    "temperature": 25,
+    "cloudCoverage": 100,
+    "solar": 788
+  },
+  {
+    "solarInput": 468.5,
+    "SOC": 100,
+    "time": "2023-11-16T14:00",
+    "temperature": 24.9,
+    "cloudCoverage": 100,
+    "solar": 686
+  },
+  {
+    "solarInput": 1048.3333333333333,
+    "SOC": 99.5,
+    "time": "2023-11-16T15:00",
+    "temperature": 24.5,
+    "cloudCoverage": 100,
+    "solar": 423
+  },
+  {
+    "solarInput": 402,
+    "SOC": 99,
+    "time": "2023-11-16T16:00",
+    "temperature": 23.4,
+    "cloudCoverage": 100,
+    "solar": 147
+  },
+  {
+    "solarInput": 398,
+    "SOC": 99,
+    "time": "2023-11-16T17:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 23
+  },
+  {
+    "solarInput": 114.66666666666667,
+    "SOC": 97.33333333333333,
+    "time": "2023-11-16T18:00",
+    "temperature": 22.2,
+    "cloudCoverage": 100,
+    "solar": 19
+  },
+  {
+    "solarInput": 0,
+    "SOC": 92.15,
+    "time": "2023-11-16T19:00",
+    "temperature": 21.5,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86,
+    "time": "2023-11-16T20:00",
+    "temperature": 20.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.5,
+    "time": "2023-11-16T21:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.66666666666667,
+    "time": "2023-11-16T22:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.75,
+    "time": "2023-11-16T23:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69.25,
+    "time": "2023-11-17T00:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.16666666666667,
+    "time": "2023-11-17T01:00",
+    "temperature": 20,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 59.25,
+    "time": "2023-11-17T02:00",
+    "temperature": 19.8,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 55.35,
+    "time": "2023-11-17T03:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 52.25,
+    "time": "2023-11-17T04:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 14,
+    "SOC": 48.166666666666664,
+    "time": "2023-11-17T05:00",
+    "temperature": 19.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 172,
+    "SOC": 46,
+    "time": "2023-11-17T06:00",
+    "temperature": 19.2,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 394.5,
+    "SOC": 46.75,
+    "time": "2023-11-17T07:00",
+    "temperature": 19.5,
+    "cloudCoverage": 84,
+    "solar": 10
+  },
+  {
+    "solarInput": 373.3333333333333,
+    "SOC": 48.666666666666664,
+    "time": "2023-11-17T08:00",
+    "temperature": 19.9,
+    "cloudCoverage": 91,
+    "solar": 33
+  },
+  {
+    "solarInput": 488.5,
+    "SOC": 51.25,
+    "time": "2023-11-17T09:00",
+    "temperature": 20.3,
+    "cloudCoverage": 91,
+    "solar": 88
+  },
+  {
+    "solarInput": 668.5,
+    "SOC": 57,
+    "time": "2023-11-17T10:00",
+    "temperature": 19.1,
+    "cloudCoverage": 97,
+    "solar": 42
+  },
+  {
+    "solarInput": 1644.5,
+    "SOC": 66.5,
+    "time": "2023-11-17T11:00",
+    "temperature": 19.5,
+    "cloudCoverage": 95,
+    "solar": 87
+  },
+  {
+    "solarInput": 1607.3333333333333,
+    "SOC": 78.33333333333333,
+    "time": "2023-11-17T12:00",
+    "temperature": 19.6,
+    "cloudCoverage": 82,
+    "solar": 199
+  },
+  {
+    "solarInput": 1419.5,
+    "SOC": 90.25,
+    "time": "2023-11-17T13:00",
+    "temperature": 20,
+    "cloudCoverage": 85,
+    "solar": 277
+  },
+  {
+    "solarInput": 600.5,
+    "SOC": 98.5,
+    "time": "2023-11-17T14:00",
+    "temperature": 19.9,
+    "cloudCoverage": 88,
+    "solar": 295
+  },
+  {
+    "solarInput": 384.6666666666667,
+    "SOC": 99.66666666666667,
+    "time": "2023-11-17T15:00",
+    "temperature": 20.1,
+    "cloudCoverage": 91,
+    "solar": 256
+  },
+  {
+    "solarInput": 370,
+    "SOC": 99,
+    "time": "2023-11-17T16:00",
+    "temperature": 20.4,
+    "cloudCoverage": 74,
+    "solar": 299
+  },
+  {
+    "solarInput": 272.5,
+    "SOC": 99,
+    "time": "2023-11-17T17:00",
+    "temperature": 20.3,
+    "cloudCoverage": 32,
+    "solar": 280
+  },
+  {
+    "solarInput": 175,
+    "SOC": 99,
+    "time": "2023-11-17T18:00",
+    "temperature": 19.7,
+    "cloudCoverage": 26,
+    "solar": 224
+  },
+  {
+    "solarInput": 4,
+    "SOC": 96.5,
+    "time": "2023-11-17T19:00",
+    "temperature": 18.9,
+    "cloudCoverage": 20,
+    "solar": 76
+  },
+  {
+    "solarInput": 0,
+    "SOC": 92.5,
+    "time": "2023-11-17T20:00",
+    "temperature": 17.8,
+    "cloudCoverage": 7,
+    "solar": 2
+  },
+  {
+    "solarInput": 0,
+    "SOC": 88.75,
+    "time": "2023-11-17T21:00",
+    "temperature": 16.9,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.33333333333333,
+    "time": "2023-11-17T22:00",
+    "temperature": 16.5,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76,
+    "time": "2023-11-17T23:00",
+    "temperature": 16.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.75,
+    "time": "2023-11-18T00:00",
+    "temperature": 16.1,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.25,
+    "time": "2023-11-18T01:00",
+    "temperature": 15.9,
+    "cloudCoverage": 32,
+    "solar": 0
+  },
+  {
+    "solarInput": 0.3333333333333333,
+    "SOC": 62.666666666666664,
+    "time": "2023-11-18T02:00",
+    "temperature": 15.5,
+    "cloudCoverage": 44,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 58.5,
+    "time": "2023-11-18T03:00",
+    "temperature": 15.3,
+    "cloudCoverage": 55,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 54.75,
+    "time": "2023-11-18T04:00",
+    "temperature": 15.1,
+    "cloudCoverage": 56,
+    "solar": 0
+  },
+  {
+    "solarInput": 76,
+    "SOC": 50.666666666666664,
+    "time": "2023-11-18T05:00",
+    "temperature": 14.8,
+    "cloudCoverage": 61,
+    "solar": 0
+  },
+  {
+    "solarInput": 728,
+    "SOC": 50.5,
+    "time": "2023-11-18T06:00",
+    "temperature": 14.9,
+    "cloudCoverage": 67,
+    "solar": 1
+  },
+  {
+    "solarInput": 1695,
+    "SOC": 61.75,
+    "time": "2023-11-18T07:00",
+    "temperature": 15.9,
+    "cloudCoverage": 67,
+    "solar": 30
+  },
+  {
+    "solarInput": 2168,
+    "SOC": 78,
+    "time": "2023-11-18T08:00",
+    "temperature": 17.4,
+    "cloudCoverage": 64,
+    "solar": 119
+  },
+  {
+    "solarInput": 1253,
+    "SOC": 97.5,
+    "time": "2023-11-18T09:00",
+    "temperature": 18.9,
+    "cloudCoverage": 58,
+    "solar": 262
+  },
+  {
+    "solarInput": 660.5,
+    "SOC": 100,
+    "time": "2023-11-18T10:00",
+    "temperature": 20.1,
+    "cloudCoverage": 56,
+    "solar": 420
+  },
+  {
+    "solarInput": 291,
+    "SOC": 100,
+    "time": "2023-11-18T11:00",
+    "temperature": 20.9,
+    "cloudCoverage": 58,
+    "solar": 484
+  },
+  {
+    "solarInput": 272,
+    "SOC": 100,
+    "time": "2023-11-18T12:00",
+    "temperature": 21.6,
+    "cloudCoverage": 55,
+    "solar": 575
+  },
+  {
+    "solarInput": 244,
+    "SOC": 100,
+    "time": "2023-11-18T13:00",
+    "temperature": 21.9,
+    "cloudCoverage": 62,
+    "solar": 605
+  },
+  {
+    "solarInput": 224.5,
+    "SOC": 100,
+    "time": "2023-11-18T14:00",
+    "temperature": 21.8,
+    "cloudCoverage": 60,
+    "solar": 562
+  },
+  {
+    "solarInput": 585.5,
+    "SOC": 100,
+    "time": "2023-11-18T15:00",
+    "temperature": 21.7,
+    "cloudCoverage": 58,
+    "solar": 487
+  },
+  {
+    "solarInput": 533.3333333333334,
+    "SOC": 99.16666666666667,
+    "time": "2023-11-18T16:00",
+    "temperature": 21.6,
+    "cloudCoverage": 82,
+    "solar": 457
+  },
+  {
+    "solarInput": 253.5,
+    "SOC": 98.25,
+    "time": "2023-11-18T17:00",
+    "temperature": 21.1,
+    "cloudCoverage": 48,
+    "solar": 364
+  },
+  {
+    "solarInput": 83.5,
+    "SOC": 95.75,
+    "time": "2023-11-18T18:00",
+    "temperature": 20.3,
+    "cloudCoverage": 44,
+    "solar": 208
+  },
+  {
+    "solarInput": 4.333333333333333,
+    "SOC": 92.16666666666667,
+    "time": "2023-11-18T19:00",
+    "temperature": 19.3,
+    "cloudCoverage": 18,
+    "solar": 66
+  },
+  {
+    "solarInput": 0,
+    "SOC": 87.25,
+    "time": "2023-11-18T20:00",
+    "temperature": 17.7,
+    "cloudCoverage": 0,
+    "solar": 2
+  },
+  {
+    "solarInput": 0,
+    "SOC": 84.25,
+    "time": "2023-11-18T21:00",
+    "temperature": 16.9,
+    "cloudCoverage": 20,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.75,
+    "time": "2023-11-18T22:00",
+    "temperature": 16.5,
+    "cloudCoverage": 17,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.33333333333333,
+    "time": "2023-11-18T23:00",
+    "temperature": 15.9,
+    "cloudCoverage": 25,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 74.5,
+    "time": "2023-11-19T00:00",
+    "temperature": 15.7,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.75,
+    "time": "2023-11-19T01:00",
+    "temperature": 15.5,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67.33333333333333,
+    "time": "2023-11-19T02:00",
+    "temperature": 15.5,
+    "cloudCoverage": 13,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.25,
+    "time": "2023-11-19T03:00",
+    "temperature": 15.2,
+    "cloudCoverage": 6,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 59.5,
+    "time": "2023-11-19T04:00",
+    "temperature": 14.8,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 19.5,
+    "SOC": 56.75,
+    "time": "2023-11-19T05:00",
+    "temperature": 14.3,
+    "cloudCoverage": 0,
+    "solar": 0
+  },
+  {
+    "solarInput": 622,
+    "SOC": 56.666666666666664,
+    "time": "2023-11-19T06:00",
+    "temperature": 13.9,
+    "cloudCoverage": 0,
+    "solar": 1
+  },
+  {
+    "solarInput": 1613.5,
+    "SOC": 67,
+    "time": "2023-11-19T07:00",
+    "temperature": 15.1,
+    "cloudCoverage": 0,
+    "solar": 74
+  },
+  {
+    "solarInput": 2135.5,
+    "SOC": 85.5,
+    "time": "2023-11-19T08:00",
+    "temperature": 18,
+    "cloudCoverage": 0,
+    "solar": 268
+  },
+  {
+    "solarInput": 447,
+    "SOC": 98.5,
+    "time": "2023-11-19T09:00",
+    "temperature": 20.2,
+    "cloudCoverage": 27,
+    "solar": 465
+  },
+  {
+    "solarInput": 256.5,
+    "SOC": 99,
+    "time": "2023-11-19T10:00",
+    "temperature": 21.6,
+    "cloudCoverage": 28,
+    "solar": 612
+  },
+  {
+    "solarInput": 319,
+    "SOC": 99,
+    "time": "2023-11-19T11:00",
+    "temperature": 23,
+    "cloudCoverage": 21,
+    "solar": 763
+  },
+  {
+    "solarInput": 442,
+    "SOC": 99,
+    "time": "2023-11-19T12:00",
+    "temperature": 23.6,
+    "cloudCoverage": 8,
+    "solar": 909
+  },
+  {
+    "solarInput": 575.3333333333334,
+    "SOC": 99,
+    "time": "2023-11-19T13:00",
+    "temperature": 24,
+    "cloudCoverage": 20,
+    "solar": 954
+  },
+  {
+    "solarInput": 389,
+    "SOC": 99,
+    "time": "2023-11-19T14:00",
+    "temperature": 24.1,
+    "cloudCoverage": 27,
+    "solar": 905
+  },
+  {
+    "solarInput": 396,
+    "SOC": 99,
+    "time": "2023-11-19T15:00",
+    "temperature": 23.8,
+    "cloudCoverage": 27,
+    "solar": 790
+  },
+  {
+    "solarInput": 361.3333333333333,
+    "SOC": 99,
+    "time": "2023-11-19T16:00",
+    "temperature": 23.2,
+    "cloudCoverage": 19,
+    "solar": 646
+  },
+  {
+    "solarInput": 376.5,
+    "SOC": 99,
+    "time": "2023-11-19T17:00",
+    "temperature": 22.4,
+    "cloudCoverage": 100,
+    "solar": 462
+  },
+  {
+    "solarInput": 110.5,
+    "SOC": 98.25,
+    "time": "2023-11-19T18:00",
+    "temperature": 21.5,
+    "cloudCoverage": 100,
+    "solar": 130
+  },
+  {
+    "solarInput": 1.5,
+    "SOC": 94.25,
+    "time": "2023-11-19T19:00",
+    "temperature": 20.8,
+    "cloudCoverage": 100,
+    "solar": 7
+  },
+  {
+    "solarInput": 0,
+    "SOC": 88.33333333333333,
+    "time": "2023-11-19T20:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.5,
+    "time": "2023-11-19T21:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76,
+    "time": "2023-11-19T22:00",
+    "temperature": 19.6,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.33333333333333,
+    "time": "2023-11-19T23:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.25,
+    "time": "2023-11-20T00:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63,
+    "time": "2023-11-20T01:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.25,
+    "time": "2023-11-20T02:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 56.5,
+    "time": "2023-11-20T03:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 52.4,
+    "time": "2023-11-20T04:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 1.5,
+    "SOC": 48.75,
+    "time": "2023-11-20T05:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 92.66666666666667,
+    "SOC": 45.833333333333336,
+    "time": "2023-11-20T06:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 178.5,
+    "SOC": 45,
+    "time": "2023-11-20T07:00",
+    "temperature": 20.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 267,
+    "SOC": 45,
+    "time": "2023-11-20T08:00",
+    "temperature": 20.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 364,
+    "SOC": 45,
+    "time": "2023-11-20T09:00",
+    "temperature": 20.6,
+    "cloudCoverage": 100,
+    "solar": 2
+  },
+  {
+    "solarInput": 529.6666666666666,
+    "SOC": 46.5,
+    "time": "2023-11-20T10:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 5
+  },
+  {
+    "solarInput": 842,
+    "SOC": 48.75,
+    "time": "2023-11-20T11:00",
+    "temperature": 22.2,
+    "cloudCoverage": 100,
+    "solar": 25
+  },
+  {
+    "solarInput": 695.5,
+    "SOC": 53,
+    "time": "2023-11-20T12:00",
+    "temperature": 22.5,
+    "cloudCoverage": 100,
+    "solar": 80
+  },
+  {
+    "solarInput": 1296.3333333333333,
+    "SOC": 62.833333333333336,
+    "time": "2023-11-20T13:00",
+    "temperature": 22.2,
+    "cloudCoverage": 100,
+    "solar": 78
+  },
+  {
+    "solarInput": 1057,
+    "SOC": 74.75,
+    "time": "2023-11-20T14:00",
+    "temperature": 21.8,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 1095.5,
+    "SOC": 83.5,
+    "time": "2023-11-20T15:00",
+    "temperature": 21.7,
+    "cloudCoverage": 100,
+    "solar": 9
+  },
+  {
+    "solarInput": 421,
+    "SOC": 89.25,
+    "time": "2023-11-20T16:00",
+    "temperature": 20.8,
+    "cloudCoverage": 100,
+    "solar": 2
+  },
+  {
+    "solarInput": 104,
+    "SOC": 88.83333333333333,
+    "time": "2023-11-20T17:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": -2
+  },
+  {
+    "solarInput": 38,
+    "SOC": 86.75,
+    "time": "2023-11-20T18:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.75,
+    "time": "2023-11-20T19:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.83333333333333,
+    "time": "2023-11-20T20:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.25,
+    "time": "2023-11-20T21:00",
+    "temperature": 19.2,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.5,
+    "time": "2023-11-20T22:00",
+    "temperature": 19.3,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.25,
+    "time": "2023-11-20T23:00",
+    "temperature": 19.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.66666666666667,
+    "time": "2023-11-21T00:00",
+    "temperature": 19.2,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.25,
+    "time": "2023-11-21T01:00",
+    "temperature": 18.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.25,
+    "time": "2023-11-21T02:00",
+    "temperature": 18.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 57,
+    "time": "2023-11-21T03:00",
+    "temperature": 18.6,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 53.75,
+    "time": "2023-11-21T04:00",
+    "temperature": 18,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 25.5,
+    "SOC": 51,
+    "time": "2023-11-21T05:00",
+    "temperature": 18,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "solarInput": 411,
+    "SOC": 49.25,
+    "time": "2023-11-21T06:00",
+    "temperature": 17.9,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "solarInput": 1232.6666666666667,
+    "SOC": 58.666666666666664,
+    "time": "2023-11-21T07:00",
+    "temperature": 18.8,
+    "cloudCoverage": 75,
+    "solar": 22
+  },
+  {
+    "solarInput": 1137,
+    "SOC": 73.5,
+    "time": "2023-11-21T08:00",
+    "temperature": 20.4,
+    "cloudCoverage": 72,
+    "solar": 120
+  },
+  {
+    "solarInput": 2492,
+    "SOC": 91,
+    "time": "2023-11-21T09:00",
+    "temperature": 21.9,
+    "cloudCoverage": 100,
+    "solar": 235
+  },
+  {
+    "solarInput": 472,
+    "SOC": 99.33333333333333,
+    "time": "2023-11-21T10:00",
+    "temperature": 23.4,
+    "cloudCoverage": 95,
+    "solar": 447
+  },
+  {
+    "solarInput": 285,
+    "SOC": 100,
+    "time": "2023-11-21T11:00",
+    "temperature": 24.8,
+    "cloudCoverage": 75,
+    "solar": 624
+  },
+  {
+    "solarInput": 267.5,
+    "SOC": 100,
+    "time": "2023-11-21T12:00",
+    "temperature": 25.6,
+    "cloudCoverage": 79,
+    "solar": 634
+  },
+  {
+    "solarInput": 269.5,
+    "SOC": 100,
+    "time": "2023-11-21T13:00",
+    "temperature": 25.6,
+    "cloudCoverage": 88,
+    "solar": 535
+  },
+  {
+    "solarInput": 262,
+    "SOC": 100,
+    "time": "2023-11-21T14:00",
+    "temperature": 25.6,
+    "cloudCoverage": 99,
+    "solar": 394
+  },
+  {
+    "solarInput": 344,
+    "SOC": 100,
+    "time": "2023-11-21T15:00",
+    "temperature": 24.6,
+    "cloudCoverage": 100,
+    "solar": 197
+  },
+  {
+    "solarInput": 603,
+    "SOC": 99.25,
+    "time": "2023-11-21T16:00",
+    "temperature": 23.7,
+    "cloudCoverage": 100,
+    "solar": 63
+  },
+  {
+    "solarInput": 221.66666666666666,
+    "SOC": 98.66666666666667,
+    "time": "2023-11-21T17:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 42
+  },
+  {
+    "solarInput": 40.5,
+    "SOC": 96.25,
+    "time": "2023-11-21T18:00",
+    "temperature": 22.8,
+    "cloudCoverage": 100,
+    "solar": 9
+  },
+  {
+    "solarInput": 0,
+    "SOC": 91.5,
+    "time": "2023-11-21T19:00",
+    "temperature": 22.3,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.75,
+    "time": "2023-11-21T20:00",
+    "temperature": 21.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.16666666666667,
+    "time": "2023-11-21T21:00",
+    "temperature": 21.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.25,
+    "time": "2023-11-21T22:00",
+    "temperature": 21.7,
+    "cloudCoverage": 67,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.75,
+    "time": "2023-11-21T23:00",
+    "temperature": 21.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.5,
+    "time": "2023-11-22T00:00",
+    "temperature": 21.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 64.75,
+    "time": "2023-11-22T01:00",
+    "temperature": 20.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.75,
+    "time": "2023-11-22T02:00",
+    "temperature": 20.5,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 59.25,
+    "time": "2023-11-22T03:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 55.5,
+    "time": "2023-11-22T04:00",
+    "temperature": 20,
+    "cloudCoverage": 65,
+    "solar": 0
+  },
+  {
+    "solarInput": 78,
+    "SOC": 52.5,
+    "time": "2023-11-22T05:00",
+    "temperature": 19.6,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 338,
+    "SOC": 52,
+    "time": "2023-11-22T06:00",
+    "temperature": 19.5,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 752.6666666666666,
+    "SOC": 55.333333333333336,
+    "time": "2023-11-22T07:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 14
+  },
+  {
+    "solarInput": 1346.5,
+    "SOC": 63.75,
+    "time": "2023-11-22T08:00",
+    "temperature": 21.6,
+    "cloudCoverage": 100,
+    "solar": 40
+  },
+  {
+    "solarInput": 618,
+    "SOC": 70.5,
+    "time": "2023-11-22T09:00",
+    "temperature": 23.1,
+    "cloudCoverage": 92,
+    "solar": 143
+  },
+  {
+    "solarInput": 490,
+    "SOC": 74.75,
+    "time": "2023-11-22T10:00",
+    "temperature": 23.4,
+    "cloudCoverage": 100,
+    "solar": 184
+  },
+  {
+    "solarInput": 383.3333333333333,
+    "SOC": 76.5,
+    "time": "2023-11-22T11:00",
+    "temperature": 23.5,
+    "cloudCoverage": 100,
+    "solar": 157
+  },
+  {
+    "solarInput": 666.5,
+    "SOC": 80.25,
+    "time": "2023-11-22T12:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 119
+  },
+  {
+    "solarInput": 313,
+    "SOC": 83,
+    "time": "2023-11-22T13:00",
+    "temperature": 21.4,
+    "cloudCoverage": 100,
+    "solar": 61
+  },
+  {
+    "solarInput": 606.3333333333334,
+    "SOC": 86.16666666666667,
+    "time": "2023-11-22T14:00",
+    "temperature": 21.4,
+    "cloudCoverage": 100,
+    "solar": 9
+  },
+  {
+    "solarInput": 449.5,
+    "SOC": 89,
+    "time": "2023-11-22T15:00",
+    "temperature": 21.4,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 336.5,
+    "SOC": 89.5,
+    "time": "2023-11-22T16:00",
+    "temperature": 21.4,
+    "cloudCoverage": 100,
+    "solar": 3
+  },
+  {
+    "solarInput": 446,
+    "SOC": 91.75,
+    "time": "2023-11-22T17:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 6
+  },
+  {
+    "solarInput": 37.333333333333336,
+    "SOC": 91.33333333333333,
+    "time": "2023-11-22T18:00",
+    "temperature": 20.9,
+    "cloudCoverage": 100,
+    "solar": 5
+  },
+  {
+    "solarInput": 0,
+    "SOC": 88.15,
+    "time": "2023-11-22T19:00",
+    "temperature": 20.7,
+    "cloudCoverage": 100,
+    "solar": 4
+  },
+  {
+    "solarInput": 0,
+    "SOC": 84.75,
+    "time": "2023-11-22T20:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.66666666666667,
+    "time": "2023-11-22T21:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.5,
+    "time": "2023-11-22T22:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.35,
+    "time": "2023-11-22T23:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.75,
+    "time": "2023-11-23T00:00",
+    "temperature": 20,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.66666666666667,
+    "time": "2023-11-23T01:00",
+    "temperature": 19.9,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.25,
+    "time": "2023-11-23T02:00",
+    "temperature": 19.8,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.35,
+    "time": "2023-11-23T03:00",
+    "temperature": 19.8,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 57.166666666666664,
+    "time": "2023-11-23T04:00",
+    "temperature": 19.8,
+    "cloudCoverage": 95,
+    "solar": 0
+  },
+  {
+    "solarInput": 11,
+    "SOC": 54.25,
+    "time": "2023-11-23T05:00",
+    "temperature": 19.7,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 89,
+    "SOC": 52,
+    "time": "2023-11-23T06:00",
+    "temperature": 19.8,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 316.5,
+    "SOC": 51.25,
+    "time": "2023-11-23T07:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 804,
+    "SOC": 55.166666666666664,
+    "time": "2023-11-23T08:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 9
+  },
+  {
+    "solarInput": 1187.5,
+    "SOC": 65.5,
+    "time": "2023-11-23T09:00",
+    "temperature": 20.8,
+    "cloudCoverage": 100,
+    "solar": 23
+  },
+  {
+    "solarInput": 1187,
+    "SOC": 78.75,
+    "time": "2023-11-23T10:00",
+    "temperature": 21,
+    "cloudCoverage": 100,
+    "solar": 10
+  },
+  {
+    "solarInput": 905.3333333333334,
+    "SOC": 88,
+    "time": "2023-11-23T11:00",
+    "temperature": 22.3,
+    "cloudCoverage": 99,
+    "solar": 52
+  },
+  {
+    "solarInput": 783.5,
+    "SOC": 92.75,
+    "time": "2023-11-23T12:00",
+    "temperature": 22.4,
+    "cloudCoverage": 100,
+    "solar": 97
+  },
+  {
+    "solarInput": 1058.5,
+    "SOC": 98.25,
+    "time": "2023-11-23T13:00",
+    "temperature": 22.7,
+    "cloudCoverage": 100,
+    "solar": 78
+  },
+  {
+    "solarInput": 559,
+    "SOC": 99.25,
+    "time": "2023-11-23T14:00",
+    "temperature": 22.7,
+    "cloudCoverage": 99,
+    "solar": 83
+  },
+  {
+    "solarInput": 247.66666666666666,
+    "SOC": 100,
+    "time": "2023-11-23T15:00",
+    "temperature": 22.7,
+    "cloudCoverage": 99,
+    "solar": 89
+  },
+  {
+    "solarInput": 274,
+    "SOC": 100,
+    "time": "2023-11-23T16:00",
+    "temperature": 22.5,
+    "cloudCoverage": 100,
+    "solar": 60
+  },
+  {
+    "solarInput": 269,
+    "SOC": 99.25,
+    "time": "2023-11-23T17:00",
+    "temperature": 22.1,
+    "cloudCoverage": 100,
+    "solar": 25
+  },
+  {
+    "solarInput": 78.33333333333333,
+    "SOC": 97.66666666666667,
+    "time": "2023-11-23T18:00",
+    "temperature": 21.8,
+    "cloudCoverage": 100,
+    "solar": 15
+  },
+  {
+    "solarInput": 0,
+    "SOC": 93.35,
+    "time": "2023-11-23T19:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 3
+  },
+  {
+    "solarInput": 0,
+    "SOC": 89.5,
+    "time": "2023-11-23T20:00",
+    "temperature": 20.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.25,
+    "time": "2023-11-23T21:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.66666666666667,
+    "time": "2023-11-23T22:00",
+    "temperature": 20,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.5,
+    "time": "2023-11-23T23:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 75.75,
+    "time": "2023-11-24T00:00",
+    "temperature": 19.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72,
+    "time": "2023-11-24T01:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.75,
+    "time": "2023-11-24T02:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66,
+    "time": "2023-11-24T03:00",
+    "temperature": 19.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.75,
+    "time": "2023-11-24T04:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 23,
+    "SOC": 60.333333333333336,
+    "time": "2023-11-24T05:00",
+    "temperature": 19.3,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 267.5,
+    "SOC": 59,
+    "time": "2023-11-24T06:00",
+    "temperature": 19.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 1044,
+    "SOC": 61.25,
+    "time": "2023-11-24T07:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 1146,
+    "SOC": 70.5,
+    "time": "2023-11-24T08:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 1596.5,
+    "SOC": 79.75,
+    "time": "2023-11-24T09:00",
+    "temperature": 20.7,
+    "cloudCoverage": 100,
+    "solar": 2
+  },
+  {
+    "solarInput": 1288.5,
+    "SOC": 94.5,
+    "time": "2023-11-24T10:00",
+    "temperature": 21.4,
+    "cloudCoverage": 99,
+    "solar": 17
+  },
+  {
+    "solarInput": 502.5,
+    "SOC": 99.35,
+    "time": "2023-11-24T11:00",
+    "temperature": 22.1,
+    "cloudCoverage": 100,
+    "solar": 139
+  },
+  {
+    "solarInput": 509,
+    "SOC": 100,
+    "time": "2023-11-24T12:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 173
+  },
+  {
+    "solarInput": 351.5,
+    "SOC": 100,
+    "time": "2023-11-24T13:00",
+    "temperature": 23.5,
+    "cloudCoverage": 100,
+    "solar": 337
+  },
+  {
+    "solarInput": 440.5,
+    "SOC": 100,
+    "time": "2023-11-24T14:00",
+    "temperature": 23.5,
+    "cloudCoverage": 100,
+    "solar": 223
+  },
+  {
+    "solarInput": 675.6666666666666,
+    "SOC": 100,
+    "time": "2023-11-24T15:00",
+    "temperature": 23.7,
+    "cloudCoverage": 100,
+    "solar": 252
+  },
+  {
+    "solarInput": 564,
+    "SOC": 100,
+    "time": "2023-11-24T16:00",
+    "temperature": 23.3,
+    "cloudCoverage": 100,
+    "solar": 182
+  },
+  {
+    "solarInput": 420,
+    "SOC": 99.75,
+    "time": "2023-11-24T17:00",
+    "temperature": 23.2,
+    "cloudCoverage": 73,
+    "solar": 175
+  },
+  {
+    "solarInput": 126,
+    "SOC": 98.25,
+    "time": "2023-11-24T18:00",
+    "temperature": 22.5,
+    "cloudCoverage": 100,
+    "solar": 168
+  },
+  {
+    "solarInput": 3.3333333333333335,
+    "SOC": 93.66666666666667,
+    "time": "2023-11-24T19:00",
+    "temperature": 21.8,
+    "cloudCoverage": 95,
+    "solar": 33
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90.5,
+    "time": "2023-11-24T20:00",
+    "temperature": 20.8,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.75,
+    "time": "2023-11-24T21:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 83.5,
+    "time": "2023-11-24T22:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.25,
+    "time": "2023-11-24T23:00",
+    "temperature": 19,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.25,
+    "time": "2023-11-25T00:00",
+    "temperature": 18.8,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 74.75,
+    "time": "2023-11-25T01:00",
+    "temperature": 18.7,
+    "cloudCoverage": 89,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 71.16666666666667,
+    "time": "2023-11-25T02:00",
+    "temperature": 18.5,
+    "cloudCoverage": 73,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.1,
+    "time": "2023-11-25T03:00",
+    "temperature": 18.4,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.25,
+    "time": "2023-11-25T04:00",
+    "temperature": 18.2,
+    "cloudCoverage": 79,
+    "solar": 0
+  },
+  {
+    "solarInput": 19.333333333333332,
+    "SOC": 62.333333333333336,
+    "time": "2023-11-25T05:00",
+    "temperature": 18.3,
+    "cloudCoverage": 75,
+    "solar": 0
+  },
+  {
+    "solarInput": 93.5,
+    "SOC": 59.75,
+    "time": "2023-11-25T06:00",
+    "temperature": 18.4,
+    "cloudCoverage": 80,
+    "solar": 0
+  },
+  {
+    "solarInput": 447.5,
+    "SOC": 60.25,
+    "time": "2023-11-25T07:00",
+    "temperature": 19.7,
+    "cloudCoverage": 80,
+    "solar": 21
+  },
+  {
+    "solarInput": 740,
+    "SOC": 63,
+    "time": "2023-11-25T08:00",
+    "temperature": 21.3,
+    "cloudCoverage": 89,
+    "solar": 99
+  },
+  {
+    "solarInput": 1146.6666666666667,
+    "SOC": 71.33333333333333,
+    "time": "2023-11-25T09:00",
+    "temperature": 21.9,
+    "cloudCoverage": 98,
+    "solar": 103
+  },
+  {
+    "solarInput": 1531,
+    "SOC": 85.25,
+    "time": "2023-11-25T10:00",
+    "temperature": 22.3,
+    "cloudCoverage": 99,
+    "solar": 59
+  },
+  {
+    "solarInput": 1485.5,
+    "SOC": 96.85,
+    "time": "2023-11-25T11:00",
+    "temperature": 22.9,
+    "cloudCoverage": 100,
+    "solar": 47
+  },
+  {
+    "solarInput": 255.66666666666666,
+    "SOC": 99.83333333333333,
+    "time": "2023-11-25T12:00",
+    "temperature": 23.3,
+    "cloudCoverage": 100,
+    "solar": 65
+  },
+  {
+    "solarInput": 259,
+    "SOC": 100,
+    "time": "2023-11-25T13:00",
+    "temperature": 23.6,
+    "cloudCoverage": 100,
+    "solar": 49
+  },
+  {
+    "solarInput": 243.5,
+    "SOC": 100,
+    "time": "2023-11-25T14:00",
+    "temperature": 23.8,
+    "cloudCoverage": 99,
+    "solar": 74
+  },
+  {
+    "solarInput": 272.5,
+    "SOC": 100,
+    "time": "2023-11-25T15:00",
+    "temperature": 23.5,
+    "cloudCoverage": 100,
+    "solar": 102
+  },
+  {
+    "solarInput": 283.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-25T16:00",
+    "temperature": 22.5,
+    "cloudCoverage": 100,
+    "solar": 30
+  },
+  {
+    "solarInput": 254,
+    "SOC": 99.75,
+    "time": "2023-11-25T17:00",
+    "temperature": 21.8,
+    "cloudCoverage": 100,
+    "solar": 5
+  },
+  {
+    "solarInput": 84.5,
+    "SOC": 99,
+    "time": "2023-11-25T18:00",
+    "temperature": 21.5,
+    "cloudCoverage": 97,
+    "solar": 23
+  },
+  {
+    "solarInput": 1,
+    "SOC": 96,
+    "time": "2023-11-25T19:00",
+    "temperature": 21,
+    "cloudCoverage": 95,
+    "solar": 19
+  },
+  {
+    "solarInput": 0,
+    "SOC": 92.25,
+    "time": "2023-11-25T20:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 0,
+    "SOC": 89.5,
+    "time": "2023-11-25T21:00",
+    "temperature": 20.2,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.5,
+    "time": "2023-11-25T22:00",
+    "temperature": 20.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.66666666666667,
+    "time": "2023-11-25T23:00",
+    "temperature": 20.2,
+    "cloudCoverage": 92,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 79.25,
+    "time": "2023-11-26T00:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 76.5,
+    "time": "2023-11-26T01:00",
+    "temperature": 19.9,
+    "cloudCoverage": 95,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73,
+    "time": "2023-11-26T02:00",
+    "temperature": 19.7,
+    "cloudCoverage": 96,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69.75,
+    "time": "2023-11-26T03:00",
+    "temperature": 19.5,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 67,
+    "time": "2023-11-26T04:00",
+    "temperature": 19.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 8.5,
+    "SOC": 64.75,
+    "time": "2023-11-26T05:00",
+    "temperature": 19.1,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 711.6666666666666,
+    "SOC": 64.16666666666667,
+    "time": "2023-11-26T06:00",
+    "temperature": 19.1,
+    "cloudCoverage": 97,
+    "solar": 0
+  },
+  {
+    "solarInput": 1255,
+    "SOC": 73.5,
+    "time": "2023-11-26T07:00",
+    "temperature": 19.4,
+    "cloudCoverage": 96,
+    "solar": 4
+  },
+  {
+    "solarInput": 1731,
+    "SOC": 87,
+    "time": "2023-11-26T08:00",
+    "temperature": 20.3,
+    "cloudCoverage": 90,
+    "solar": 38
+  },
+  {
+    "solarInput": 253.66666666666666,
+    "SOC": 98.83333333333333,
+    "time": "2023-11-26T09:00",
+    "temperature": 21.9,
+    "cloudCoverage": 84,
+    "solar": 158
+  },
+  {
+    "solarInput": 320,
+    "SOC": 100,
+    "time": "2023-11-26T10:00",
+    "temperature": 23.2,
+    "cloudCoverage": 94,
+    "solar": 270
+  },
+  {
+    "solarInput": 627,
+    "SOC": 100,
+    "time": "2023-11-26T11:00",
+    "temperature": 25.6,
+    "cloudCoverage": 100,
+    "solar": 419
+  },
+  {
+    "solarInput": 337,
+    "SOC": 100,
+    "time": "2023-11-26T12:00",
+    "temperature": 27.2,
+    "cloudCoverage": 100,
+    "solar": 334
+  },
+  {
+    "solarInput": 506.3333333333333,
+    "SOC": 99.16666666666667,
+    "time": "2023-11-26T13:00",
+    "temperature": 27.6,
+    "cloudCoverage": 100,
+    "solar": 440
+  },
+  {
+    "solarInput": 416,
+    "SOC": 99,
+    "time": "2023-11-26T14:00",
+    "temperature": 28.2,
+    "cloudCoverage": 60,
+    "solar": 601
+  },
+  {
+    "solarInput": 470.5,
+    "SOC": 99,
+    "time": "2023-11-26T15:00",
+    "temperature": 27.8,
+    "cloudCoverage": 71,
+    "solar": 522
+  },
+  {
+    "solarInput": 383,
+    "SOC": 99,
+    "time": "2023-11-26T16:00",
+    "temperature": 24,
+    "cloudCoverage": 100,
+    "solar": 193
+  },
+  {
+    "solarInput": 112.5,
+    "SOC": 98.25,
+    "time": "2023-11-26T17:00",
+    "temperature": 25.5,
+    "cloudCoverage": 63,
+    "solar": 123
+  },
+  {
+    "solarInput": 212.5,
+    "SOC": 95.15,
+    "time": "2023-11-26T18:00",
+    "temperature": 24.6,
+    "cloudCoverage": 46,
+    "solar": 218
+  },
+  {
+    "solarInput": 33,
+    "SOC": 94.25,
+    "time": "2023-11-26T19:00",
+    "temperature": 23.7,
+    "cloudCoverage": 25,
+    "solar": 72
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90.5,
+    "time": "2023-11-26T20:00",
+    "temperature": 22,
+    "cloudCoverage": 4,
+    "solar": 3
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.5,
+    "time": "2023-11-26T21:00",
+    "temperature": 21.1,
+    "cloudCoverage": 24,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 82.75,
+    "time": "2023-11-26T22:00",
+    "temperature": 20.7,
+    "cloudCoverage": 41,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.06666666666666,
+    "time": "2023-11-26T23:00",
+    "temperature": 20.4,
+    "cloudCoverage": 59,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 72.25,
+    "time": "2023-11-27T00:00",
+    "temperature": 20,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69,
+    "time": "2023-11-27T01:00",
+    "temperature": 19.5,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.75,
+    "time": "2023-11-27T02:00",
+    "temperature": 19,
+    "cloudCoverage": 36,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 63.666666666666664,
+    "time": "2023-11-27T03:00",
+    "temperature": 18.6,
+    "cloudCoverage": 35,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 60.75,
+    "time": "2023-11-27T04:00",
+    "temperature": 18.3,
+    "cloudCoverage": 13,
+    "solar": 0
+  },
+  {
+    "solarInput": 27,
+    "SOC": 58.25,
+    "time": "2023-11-27T05:00",
+    "temperature": 17.9,
+    "cloudCoverage": 6,
+    "solar": 0
+  },
+  {
+    "solarInput": 658.6666666666666,
+    "SOC": 58.666666666666664,
+    "time": "2023-11-27T06:00",
+    "temperature": 17.7,
+    "cloudCoverage": 0,
+    "solar": 2
+  },
+  {
+    "solarInput": 1556.5,
+    "SOC": 69,
+    "time": "2023-11-27T07:00",
+    "temperature": 19.3,
+    "cloudCoverage": 0,
+    "solar": 71
+  },
+  {
+    "solarInput": 2167.5,
+    "SOC": 84.75,
+    "time": "2023-11-27T08:00",
+    "temperature": 22.3,
+    "cloudCoverage": 0,
+    "solar": 269
+  },
+  {
+    "solarInput": 1525,
+    "SOC": 99,
+    "time": "2023-11-27T09:00",
+    "temperature": 24.7,
+    "cloudCoverage": 0,
+    "solar": 482
+  },
+  {
+    "solarInput": 658,
+    "SOC": 100,
+    "time": "2023-11-27T10:00",
+    "temperature": 27.1,
+    "cloudCoverage": 0,
+    "solar": 677
+  },
+  {
+    "solarInput": 615.5,
+    "SOC": 99.25,
+    "time": "2023-11-27T11:00",
+    "temperature": 29.4,
+    "cloudCoverage": 0,
+    "solar": 832
+  },
+  {
+    "solarInput": 267.5,
+    "SOC": 99,
+    "time": "2023-11-27T12:00",
+    "temperature": 30.7,
+    "cloudCoverage": 0,
+    "solar": 922
+  },
+  {
+    "solarInput": 416,
+    "SOC": 99,
+    "time": "2023-11-27T13:00",
+    "temperature": 29.3,
+    "cloudCoverage": 0,
+    "solar": 803
+  },
+  {
+    "solarInput": 843.5,
+    "SOC": 99,
+    "time": "2023-11-27T14:00",
+    "temperature": 28.3,
+    "cloudCoverage": 36,
+    "solar": 695
+  },
+  {
+    "solarInput": 285.5,
+    "SOC": 99,
+    "time": "2023-11-27T15:00",
+    "temperature": 27.5,
+    "cloudCoverage": 5,
+    "solar": 713
+  },
+  {
+    "solarInput": 260,
+    "SOC": 99,
+    "time": "2023-11-27T16:00",
+    "temperature": 26.1,
+    "cloudCoverage": 15,
+    "solar": 671
+  },
+  {
+    "solarInput": 244.66666666666666,
+    "SOC": 99,
+    "time": "2023-11-27T17:00",
+    "temperature": 24.5,
+    "cloudCoverage": 100,
+    "solar": 499
+  },
+  {
+    "solarInput": 152,
+    "SOC": 99,
+    "time": "2023-11-27T18:00",
+    "temperature": 23.7,
+    "cloudCoverage": 100,
+    "solar": 138
+  },
+  {
+    "solarInput": 0,
+    "SOC": 96.75,
+    "time": "2023-11-27T19:00",
+    "temperature": 23.1,
+    "cloudCoverage": 100,
+    "solar": 13
+  },
+  {
+    "solarInput": 0,
+    "SOC": 92.16666666666667,
+    "time": "2023-11-27T20:00",
+    "temperature": 22.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 86.25,
+    "time": "2023-11-27T21:00",
+    "temperature": 21.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 81.75,
+    "time": "2023-11-27T22:00",
+    "temperature": 21.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 78.25,
+    "time": "2023-11-27T23:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 73.66666666666667,
+    "time": "2023-11-28T00:00",
+    "temperature": 21.2,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 69.5,
+    "time": "2023-11-28T01:00",
+    "temperature": 21,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 66.5,
+    "time": "2023-11-28T02:00",
+    "temperature": 20.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 62.5,
+    "time": "2023-11-28T03:00",
+    "temperature": 20.1,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 58.75,
+    "time": "2023-11-28T04:00",
+    "temperature": 19.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 38.5,
+    "SOC": 56,
+    "time": "2023-11-28T05:00",
+    "temperature": 19.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 208,
+    "SOC": 55,
+    "time": "2023-11-28T06:00",
+    "temperature": 19.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 350,
+    "SOC": 55,
+    "time": "2023-11-28T07:00",
+    "temperature": 20.3,
+    "cloudCoverage": 100,
+    "solar": 1
+  },
+  {
+    "solarInput": 1187.5,
+    "SOC": 59.5,
+    "time": "2023-11-28T08:00",
+    "temperature": 22.2,
+    "cloudCoverage": 100,
+    "solar": 34
+  },
+  {
+    "solarInput": 1804,
+    "SOC": 72.5,
+    "time": "2023-11-28T09:00",
+    "temperature": 23.3,
+    "cloudCoverage": 100,
+    "solar": 136
+  },
+  {
+    "solarInput": 1324,
+    "SOC": 89,
+    "time": "2023-11-28T10:00",
+    "temperature": 24.2,
+    "cloudCoverage": 100,
+    "solar": 229
+  },
+  {
+    "solarInput": 1050,
+    "SOC": 99,
+    "time": "2023-11-28T11:00",
+    "temperature": 24.1,
+    "cloudCoverage": 100,
+    "solar": 326
+  },
+  {
+    "solarInput": 297,
+    "SOC": 100,
+    "time": "2023-11-28T12:00",
+    "temperature": 24.5,
+    "cloudCoverage": 100,
+    "solar": 159
+  },
+  {
+    "solarInput": 283,
+    "SOC": 100,
+    "time": "2023-11-28T13:00",
+    "temperature": 25.2,
+    "cloudCoverage": 100,
+    "solar": 263
+  },
+  {
+    "solarInput": 258.3333333333333,
+    "SOC": 100,
+    "time": "2023-11-28T14:00",
+    "temperature": 25.8,
+    "cloudCoverage": 100,
+    "solar": 441
+  },
+  {
+    "solarInput": 236.5,
+    "SOC": 100,
+    "time": "2023-11-28T15:00",
+    "temperature": 25.6,
+    "cloudCoverage": 100,
+    "solar": 428
+  },
+  {
+    "solarInput": 252,
+    "SOC": 100,
+    "time": "2023-11-28T16:00",
+    "temperature": 25.1,
+    "cloudCoverage": 100,
+    "solar": 278
+  },
+  {
+    "solarInput": 259.3333333333333,
+    "SOC": 99.5,
+    "time": "2023-11-28T17:00",
+    "temperature": 23.9,
+    "cloudCoverage": 100,
+    "solar": 242
+  },
+  {
+    "solarInput": 165.5,
+    "SOC": 97.75,
+    "time": "2023-11-28T18:00",
+    "temperature": 23.5,
+    "cloudCoverage": 100,
+    "solar": 107
+  },
+  {
+    "solarInput": 3,
+    "SOC": 93.75,
+    "time": "2023-11-28T19:00",
+    "temperature": 22.6,
+    "cloudCoverage": 100,
+    "solar": 27
+  },
+  {
+    "solarInput": 0,
+    "SOC": 90.25,
+    "time": "2023-11-28T20:00",
+    "temperature": 21.7,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 85.16666666666667,
+    "time": "2023-11-28T21:00",
+    "temperature": 21.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 80.75,
+    "time": "2023-11-28T22:00",
+    "temperature": 21.2,
+    "cloudCoverage": 99,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 77.75,
+    "time": "2023-11-28T23:00",
+    "temperature": 21.6,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 74.33333333333333,
+    "time": "2023-11-29T00:00",
+    "temperature": 21.3,
+    "cloudCoverage": 94,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 70.75,
+    "time": "2023-11-29T01:00",
+    "temperature": 21,
+    "cloudCoverage": 91,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 68.25,
+    "time": "2023-11-29T02:00",
+    "temperature": 20.7,
+    "cloudCoverage": 98,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 65.5,
+    "time": "2023-11-29T03:00",
+    "temperature": 20.5,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "solarInput": 0,
+    "SOC": 61.666666666666664,
+    "time": "2023-11-29T04:00",
+    "temperature": 20.1,
+    "cloudCoverage": 71,
+    "solar": 0
+  },
+  {
+    "solarInput": 79,
+    "SOC": 58.75,
+    "time": "2023-11-29T05:00",
+    "temperature": 20.1,
+    "cloudCoverage": 82,
+    "solar": 0
+  },
+  {
+    "solarInput": 547,
+    "SOC": 58.5,
+    "time": "2023-11-29T06:00",
+    "temperature": 20,
+    "cloudCoverage": 61,
+    "solar": 1
+  },
+  {
+    "solarInput": 974.6666666666666,
+    "SOC": 66.16666666666667,
+    "time": "2023-11-29T07:00",
+    "temperature": 21,
+    "cloudCoverage": 100,
+    "solar": 36
+  },
+  {
+    "solarInput": 1764,
+    "SOC": 76.5,
+    "time": "2023-11-29T08:00",
+    "temperature": 21.9,
+    "cloudCoverage": 100,
+    "solar": 88
+  },
+  {
+    "solarInput": 1864.5,
+    "SOC": 90.5,
+    "time": "2023-11-29T09:00",
+    "temperature": 22.8,
+    "cloudCoverage": 100,
+    "solar": 121
+  },
+  {
+    "solarInput": 385,
+    "SOC": 99.25,
+    "time": "2023-11-29T10:00",
+    "temperature": 23.9,
+    "cloudCoverage": 100,
+    "solar": 321
+  },
+  {
+    "solarInput": 285.6666666666667,
+    "SOC": 100,
+    "time": "2023-11-29T11:00",
+    "temperature": 24.8,
+    "cloudCoverage": 100,
+    "solar": 461
+  },
+  {
+    "solarInput": 329,
+    "SOC": 100,
+    "time": "2023-11-29T12:00",
+    "temperature": 25.7,
+    "cloudCoverage": 78,
+    "solar": 553
+  },
+  {
+    "solarInput": 324,
+    "SOC": 100,
+    "time": "2023-11-29T13:00",
+    "temperature": 25.8,
+    "cloudCoverage": 47,
+    "solar": 588
+  },
+  {
+    "solarInput": 226.66666666666666,
+    "SOC": 99.5,
+    "time": "2023-11-29T14:00",
+    "temperature": 25.6,
+    "cloudCoverage": 100,
+    "solar": 655
+  },
+  {
+    "solarInput": 114.5,
+    "SOC": 98.15,
+    "time": "2023-11-29T15:00",
+    "temperature": 24.7,
+    "cloudCoverage": 100,
+    "solar": 131
+  },
+  {
+    "solarInput": 320.5,
+    "SOC": 100,
+    "time": "2023-11-29T16:00",
+    "temperature": 23.4,
+    "cloudCoverage": 100,
+    "solar": 13
+  },
+  {
+    "solarInput": 284.5,
+    "SOC": 99.5,
+    "time": "2023-11-29T17:00",
+    "temperature": 24.2,
+    "cloudCoverage": 100,
+    "solar": 109
+  },
+  {
+    "solarInput": 150.33333333333334,
+    "SOC": 98.66666666666667,
+    "time": "2023-11-29T18:00",
+    "temperature": 23.8,
+    "cloudCoverage": 100,
+    "solar": 114
+  },
+  {
+    "solarInput": 3,
+    "SOC": 96.5,
+    "time": "2023-11-29T19:00",
+    "temperature": 23.1,
+    "cloudCoverage": 100,
+    "solar": 19
+  },
+  {
+    "time": "2023-11-29T20:00",
+    "temperature": 22.4,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-29T21:00",
+    "temperature": 21.9,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-29T22:00",
+    "temperature": 21.6,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-29T23:00",
+    "temperature": 20.9,
+    "cloudCoverage": 30,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T00:00",
+    "temperature": 20.3,
+    "cloudCoverage": 39,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T01:00",
+    "temperature": 19.9,
+    "cloudCoverage": 36,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T02:00",
+    "temperature": 19.5,
+    "cloudCoverage": 39,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T03:00",
+    "temperature": 19.5,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T04:00",
+    "temperature": 19.4,
+    "cloudCoverage": 39,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T05:00",
+    "temperature": 19,
+    "cloudCoverage": 36,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T06:00",
+    "temperature": 18.6,
+    "cloudCoverage": 33,
+    "solar": 2
+  },
+  {
+    "time": "2023-11-30T07:00",
+    "temperature": 20.2,
+    "cloudCoverage": 0,
+    "solar": 85
+  },
+  {
+    "time": "2023-11-30T08:00",
+    "temperature": 22.8,
+    "cloudCoverage": 0,
+    "solar": 284
+  },
+  {
+    "time": "2023-11-30T09:00",
+    "temperature": 24.2,
+    "cloudCoverage": 0,
+    "solar": 498
+  },
+  {
+    "time": "2023-11-30T10:00",
+    "temperature": 25,
+    "cloudCoverage": 14,
+    "solar": 688
+  },
+  {
+    "time": "2023-11-30T11:00",
+    "temperature": 26.3,
+    "cloudCoverage": 29,
+    "solar": 813
+  },
+  {
+    "time": "2023-11-30T12:00",
+    "temperature": 28.1,
+    "cloudCoverage": 13,
+    "solar": 918
+  },
+  {
+    "time": "2023-11-30T13:00",
+    "temperature": 29.4,
+    "cloudCoverage": 36,
+    "solar": 932
+  },
+  {
+    "time": "2023-11-30T14:00",
+    "temperature": 30,
+    "cloudCoverage": 41,
+    "solar": 831
+  },
+  {
+    "time": "2023-11-30T15:00",
+    "temperature": 30.3,
+    "cloudCoverage": 46,
+    "solar": 679
+  },
+  {
+    "time": "2023-11-30T16:00",
+    "temperature": 30.3,
+    "cloudCoverage": 46,
+    "solar": 539
+  },
+  {
+    "time": "2023-11-30T17:00",
+    "temperature": 29.8,
+    "cloudCoverage": 59,
+    "solar": 371
+  },
+  {
+    "time": "2023-11-30T18:00",
+    "temperature": 28.8,
+    "cloudCoverage": 51,
+    "solar": 210
+  },
+  {
+    "time": "2023-11-30T19:00",
+    "temperature": 26.5,
+    "cloudCoverage": 47,
+    "solar": 86
+  },
+  {
+    "time": "2023-11-30T20:00",
+    "temperature": 23.7,
+    "cloudCoverage": 35,
+    "solar": 4
+  },
+  {
+    "time": "2023-11-30T21:00",
+    "temperature": 22.6,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T22:00",
+    "temperature": 21.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-11-30T23:00",
+    "temperature": 20.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T00:00",
+    "temperature": 19.9,
+    "cloudCoverage": 33,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T01:00",
+    "temperature": 19.6,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T02:00",
+    "temperature": 19,
+    "cloudCoverage": 56,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T03:00",
+    "temperature": 18.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T04:00",
+    "temperature": 18,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T05:00",
+    "temperature": 18,
+    "cloudCoverage": 90,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T06:00",
+    "temperature": 17.8,
+    "cloudCoverage": 59,
+    "solar": 2
+  },
+  {
+    "time": "2023-12-01T07:00",
+    "temperature": 18.5,
+    "cloudCoverage": 67,
+    "solar": 74
+  },
+  {
+    "time": "2023-12-01T08:00",
+    "temperature": 22.5,
+    "cloudCoverage": 21,
+    "solar": 290
+  },
+  {
+    "time": "2023-12-01T09:00",
+    "temperature": 25.1,
+    "cloudCoverage": 89,
+    "solar": 492
+  },
+  {
+    "time": "2023-12-01T10:00",
+    "temperature": 27.4,
+    "cloudCoverage": 52,
+    "solar": 647
+  },
+  {
+    "time": "2023-12-01T11:00",
+    "temperature": 29,
+    "cloudCoverage": 100,
+    "solar": 799
+  },
+  {
+    "time": "2023-12-01T12:00",
+    "temperature": 30.3,
+    "cloudCoverage": 100,
+    "solar": 893
+  },
+  {
+    "time": "2023-12-01T13:00",
+    "temperature": 32.4,
+    "cloudCoverage": 56,
+    "solar": 900
+  },
+  {
+    "time": "2023-12-01T14:00",
+    "temperature": 33.6,
+    "cloudCoverage": 49,
+    "solar": 811
+  },
+  {
+    "time": "2023-12-01T15:00",
+    "temperature": 33.9,
+    "cloudCoverage": 41,
+    "solar": 696
+  },
+  {
+    "time": "2023-12-01T16:00",
+    "temperature": 31,
+    "cloudCoverage": 46,
+    "solar": 506
+  },
+  {
+    "time": "2023-12-01T17:00",
+    "temperature": 28.1,
+    "cloudCoverage": 62,
+    "solar": 364
+  },
+  {
+    "time": "2023-12-01T18:00",
+    "temperature": 26,
+    "cloudCoverage": 73,
+    "solar": 203
+  },
+  {
+    "time": "2023-12-01T19:00",
+    "temperature": 24.4,
+    "cloudCoverage": 75,
+    "solar": 58
+  },
+  {
+    "time": "2023-12-01T20:00",
+    "temperature": 23.2,
+    "cloudCoverage": 67,
+    "solar": 2
+  },
+  {
+    "time": "2023-12-01T21:00",
+    "temperature": 22.5,
+    "cloudCoverage": 83,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T22:00",
+    "temperature": 22,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-01T23:00",
+    "temperature": 21.9,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T00:00",
+    "temperature": 21.3,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T01:00",
+    "temperature": 20.7,
+    "cloudCoverage": 95,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T02:00",
+    "temperature": 20.6,
+    "cloudCoverage": 74,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T03:00",
+    "temperature": 20.2,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T04:00",
+    "temperature": 19.8,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T05:00",
+    "temperature": 19.1,
+    "cloudCoverage": 59,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T06:00",
+    "temperature": 19.4,
+    "cloudCoverage": 93,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T07:00",
+    "temperature": 20.5,
+    "cloudCoverage": 70,
+    "solar": 27
+  },
+  {
+    "time": "2023-12-02T08:00",
+    "temperature": 22.1,
+    "cloudCoverage": 64,
+    "solar": 130
+  },
+  {
+    "time": "2023-12-02T09:00",
+    "temperature": 23.1,
+    "cloudCoverage": 86,
+    "solar": 249
+  },
+  {
+    "time": "2023-12-02T10:00",
+    "temperature": 24.3,
+    "cloudCoverage": 76,
+    "solar": 309
+  },
+  {
+    "time": "2023-12-02T11:00",
+    "temperature": 25.4,
+    "cloudCoverage": 86,
+    "solar": 462
+  },
+  {
+    "time": "2023-12-02T12:00",
+    "temperature": 26.4,
+    "cloudCoverage": 65,
+    "solar": 520
+  },
+  {
+    "time": "2023-12-02T13:00",
+    "temperature": 26.5,
+    "cloudCoverage": 54,
+    "solar": 618
+  },
+  {
+    "time": "2023-12-02T14:00",
+    "temperature": 25.6,
+    "cloudCoverage": 84,
+    "solar": 554
+  },
+  {
+    "time": "2023-12-02T15:00",
+    "temperature": 26.4,
+    "cloudCoverage": 43,
+    "solar": 548
+  },
+  {
+    "time": "2023-12-02T16:00",
+    "temperature": 26.4,
+    "cloudCoverage": 31,
+    "solar": 553
+  },
+  {
+    "time": "2023-12-02T17:00",
+    "temperature": 25.7,
+    "cloudCoverage": 10,
+    "solar": 440
+  },
+  {
+    "time": "2023-12-02T18:00",
+    "temperature": 24.7,
+    "cloudCoverage": 14,
+    "solar": 294
+  },
+  {
+    "time": "2023-12-02T19:00",
+    "temperature": 23.2,
+    "cloudCoverage": 18,
+    "solar": 140
+  },
+  {
+    "time": "2023-12-02T20:00",
+    "temperature": 22,
+    "cloudCoverage": 22,
+    "solar": 30
+  },
+  {
+    "time": "2023-12-02T21:00",
+    "temperature": 21.4,
+    "cloudCoverage": 35,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T22:00",
+    "temperature": 21,
+    "cloudCoverage": 47,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-02T23:00",
+    "temperature": 20.7,
+    "cloudCoverage": 60,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T00:00",
+    "temperature": 20.2,
+    "cloudCoverage": 62,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T01:00",
+    "temperature": 19.8,
+    "cloudCoverage": 64,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T02:00",
+    "temperature": 19.4,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T03:00",
+    "temperature": 18.7,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T04:00",
+    "temperature": 18.1,
+    "cloudCoverage": 89,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T05:00",
+    "temperature": 18,
+    "cloudCoverage": 100,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T06:00",
+    "temperature": 18.8,
+    "cloudCoverage": 67,
+    "solar": 14
+  },
+  {
+    "time": "2023-12-03T07:00",
+    "temperature": 20.2,
+    "cloudCoverage": 33,
+    "solar": 92
+  },
+  {
+    "time": "2023-12-03T08:00",
+    "temperature": 21.9,
+    "cloudCoverage": 0,
+    "solar": 214
+  },
+  {
+    "time": "2023-12-03T09:00",
+    "temperature": 24.1,
+    "cloudCoverage": 13,
+    "solar": 384
+  },
+  {
+    "time": "2023-12-03T10:00",
+    "temperature": 26.5,
+    "cloudCoverage": 27,
+    "solar": 600
+  },
+  {
+    "time": "2023-12-03T11:00",
+    "temperature": 28.2,
+    "cloudCoverage": 40,
+    "solar": 778
+  },
+  {
+    "time": "2023-12-03T12:00",
+    "temperature": 28.3,
+    "cloudCoverage": 35,
+    "solar": 823
+  },
+  {
+    "time": "2023-12-03T13:00",
+    "temperature": 27.7,
+    "cloudCoverage": 31,
+    "solar": 763
+  },
+  {
+    "time": "2023-12-03T14:00",
+    "temperature": 27,
+    "cloudCoverage": 26,
+    "solar": 680
+  },
+  {
+    "time": "2023-12-03T15:00",
+    "temperature": 26.5,
+    "cloudCoverage": 30,
+    "solar": 629
+  },
+  {
+    "time": "2023-12-03T16:00",
+    "temperature": 26.1,
+    "cloudCoverage": 34,
+    "solar": 561
+  },
+  {
+    "time": "2023-12-03T17:00",
+    "temperature": 25.4,
+    "cloudCoverage": 38,
+    "solar": 435
+  },
+  {
+    "time": "2023-12-03T18:00",
+    "temperature": 24.4,
+    "cloudCoverage": 49,
+    "solar": 258
+  },
+  {
+    "time": "2023-12-03T19:00",
+    "temperature": 23.2,
+    "cloudCoverage": 59,
+    "solar": 103
+  },
+  {
+    "time": "2023-12-03T20:00",
+    "temperature": 22.1,
+    "cloudCoverage": 70,
+    "solar": 18
+  },
+  {
+    "time": "2023-12-03T21:00",
+    "temperature": 21.4,
+    "cloudCoverage": 74,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T22:00",
+    "temperature": 20.8,
+    "cloudCoverage": 79,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-03T23:00",
+    "temperature": 20.2,
+    "cloudCoverage": 83,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T00:00",
+    "temperature": 19.5,
+    "cloudCoverage": 77,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T01:00",
+    "temperature": 18.7,
+    "cloudCoverage": 71,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T02:00",
+    "temperature": 18.2,
+    "cloudCoverage": 65,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T03:00",
+    "temperature": 17.8,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T04:00",
+    "temperature": 17.6,
+    "cloudCoverage": 61,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T05:00",
+    "temperature": 17.8,
+    "cloudCoverage": 59,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T06:00",
+    "temperature": 18.3,
+    "cloudCoverage": 58,
+    "solar": 9
+  },
+  {
+    "time": "2023-12-04T07:00",
+    "temperature": 19.2,
+    "cloudCoverage": 57,
+    "solar": 64
+  },
+  {
+    "time": "2023-12-04T08:00",
+    "temperature": 20.2,
+    "cloudCoverage": 56,
+    "solar": 143
+  },
+  {
+    "time": "2023-12-04T09:00",
+    "temperature": 21.2,
+    "cloudCoverage": 67,
+    "solar": 223
+  },
+  {
+    "time": "2023-12-04T10:00",
+    "temperature": 22.3,
+    "cloudCoverage": 77,
+    "solar": 301
+  },
+  {
+    "time": "2023-12-04T11:00",
+    "temperature": 23.3,
+    "cloudCoverage": 88,
+    "solar": 379
+  },
+  {
+    "time": "2023-12-04T12:00",
+    "temperature": 24.2,
+    "cloudCoverage": 76,
+    "solar": 463
+  },
+  {
+    "time": "2023-12-04T13:00",
+    "temperature": 24.9,
+    "cloudCoverage": 63,
+    "solar": 540
+  },
+  {
+    "time": "2023-12-04T14:00",
+    "temperature": 25.2,
+    "cloudCoverage": 51,
+    "solar": 582
+  },
+  {
+    "time": "2023-12-04T15:00",
+    "temperature": 24.9,
+    "cloudCoverage": 44,
+    "solar": 585
+  },
+  {
+    "time": "2023-12-04T16:00",
+    "temperature": 24.1,
+    "cloudCoverage": 38,
+    "solar": 541
+  },
+  {
+    "time": "2023-12-04T17:00",
+    "temperature": 23.3,
+    "cloudCoverage": 31,
+    "solar": 431
+  },
+  {
+    "time": "2023-12-04T18:00",
+    "temperature": 22.5,
+    "cloudCoverage": 41,
+    "solar": 267
+  },
+  {
+    "time": "2023-12-04T19:00",
+    "temperature": 21.6,
+    "cloudCoverage": 50,
+    "solar": 113
+  },
+  {
+    "time": "2023-12-04T20:00",
+    "temperature": 20.8,
+    "cloudCoverage": 60,
+    "solar": 22
+  },
+  {
+    "time": "2023-12-04T21:00",
+    "temperature": 20.3,
+    "cloudCoverage": 66,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T22:00",
+    "temperature": 19.9,
+    "cloudCoverage": 73,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-04T23:00",
+    "temperature": 19.6,
+    "cloudCoverage": 79,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T00:00",
+    "temperature": 19.4,
+    "cloudCoverage": 76,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T01:00",
+    "temperature": 19.3,
+    "cloudCoverage": 73,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T02:00",
+    "temperature": 19.1,
+    "cloudCoverage": 70,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T03:00",
+    "temperature": 18.6,
+    "cloudCoverage": 67,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T04:00",
+    "temperature": 18.2,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T05:00",
+    "temperature": 18.1,
+    "cloudCoverage": 60,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T06:00",
+    "temperature": 18.7,
+    "cloudCoverage": 63,
+    "solar": 7
+  },
+  {
+    "time": "2023-12-05T07:00",
+    "temperature": 19.6,
+    "cloudCoverage": 65,
+    "solar": 44
+  },
+  {
+    "time": "2023-12-05T08:00",
+    "temperature": 20.7,
+    "cloudCoverage": 68,
+    "solar": 103
+  },
+  {
+    "time": "2023-12-05T09:00",
+    "temperature": 21.9,
+    "cloudCoverage": 69,
+    "solar": 177
+  },
+  {
+    "time": "2023-12-05T10:00",
+    "temperature": 23.2,
+    "cloudCoverage": 69,
+    "solar": 268
+  },
+  {
+    "time": "2023-12-05T11:00",
+    "temperature": 24.2,
+    "cloudCoverage": 70,
+    "solar": 364
+  },
+  {
+    "time": "2023-12-05T12:00",
+    "temperature": 24.8,
+    "cloudCoverage": 60,
+    "solar": 452
+  },
+  {
+    "time": "2023-12-05T13:00",
+    "temperature": 25.2,
+    "cloudCoverage": 50,
+    "solar": 524
+  },
+  {
+    "time": "2023-12-05T14:00",
+    "temperature": 25.3,
+    "cloudCoverage": 40,
+    "solar": 572
+  },
+  {
+    "time": "2023-12-05T15:00",
+    "temperature": 25.2,
+    "cloudCoverage": 41,
+    "solar": 604
+  },
+  {
+    "time": "2023-12-05T16:00",
+    "temperature": 24.9,
+    "cloudCoverage": 42,
+    "solar": 592
+  },
+  {
+    "time": "2023-12-05T17:00",
+    "temperature": 24.4,
+    "cloudCoverage": 43,
+    "solar": 492
+  },
+  {
+    "time": "2023-12-05T18:00",
+    "temperature": 23.5,
+    "cloudCoverage": 49,
+    "solar": 316
+  },
+  {
+    "time": "2023-12-05T19:00",
+    "temperature": 22.5,
+    "cloudCoverage": 54,
+    "solar": 140
+  },
+  {
+    "time": "2023-12-05T20:00",
+    "temperature": 21.5,
+    "cloudCoverage": 60,
+    "solar": 29
+  },
+  {
+    "time": "2023-12-05T21:00",
+    "temperature": 20.8,
+    "cloudCoverage": 63,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T22:00",
+    "temperature": 20.3,
+    "cloudCoverage": 65,
+    "solar": 0
+  },
+  {
+    "time": "2023-12-05T23:00",
+    "temperature": 19.9,
+    "cloudCoverage": 68,
+    "solar": 0
+  }
+]

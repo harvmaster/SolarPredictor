@@ -1,0 +1,1 @@
+export { default as getThreeDayForecast } from './getThreeDayForecast'
